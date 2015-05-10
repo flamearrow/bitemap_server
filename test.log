@@ -1,0 +1,16 @@
+------------START: name none  url ----------------
+~~~~added one event: off the grid~~~~~~~
+('The Chairman', 20, '2019-08-08', 'lunch', '13:30:00', '14:30:00', '2421 Mission College Boulevard, Santa Clara, CA 95054, USA', '2421 mission college blvd, santa clara', '37.390354', '-121.970829')
+------------DONE: name: / url: null  total: 1 success: 1 skip:0 fail: 0 -------------------
+------------START: name none  url ----------------
+~~~~added one event: otg~~~~~~~
+('The Chairman', 20, '2015-04-28', 'lunch', '13:00:00', '14:00:00', '2421 Mission College Boulevard, Santa Clara, CA 95054, USA', '2421 mission college blvd, santa clara', '37.390354', '-121.970829')
+!!!ERROR: sql fail (maybe)!!!ERROR!!!
+e: time data '2020-15--04-28' does not match format '%Y-%m-%d'
+Curry Now
+date:2020-15--04-28
+start_time: 13::00:00:00
+end_time: 14::00:00:00
+address: 2421 mission college blvd, santa clara
+meal: lunch
+------------DONE: name: / url: null  total: 2 success: 1 skip:0 fail: 1 FAILED-------------------

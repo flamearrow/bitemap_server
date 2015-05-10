@@ -1,0 +1,890 @@
+run //lamp/foodtrucksmap/foodtrucksmap/trucks//3_3_3/get_schedules.bash
+------------START: name 3-3-3  url http://www.333truck.com/calendar/----------------
+~~~~~~~calendarID:rh7m6jon48l6ta3c1lpisle820@group.calendar.google.com ~~~~~~~~~~
+----skip----
+Moveable Feast Willow Glen
+----skip----
+Off the Grid Sunnyvale
+~~~~added one event: GoPro~~~~~~~
+('3-3-3', 134, '2015-05-15', 'lunch', '11:00:00', '14:00:00', '3000 Clearview Way, San Mateo, CA 94402, USA', u'3000 Clearview Way\nSan Mateo CA 94402\nUnited States', '37.5343891', '-122.3313003')
+----skip----
+Off the Grid Serramonte
+------------DONE: name: 3-3-3 url: http://www.333truck.com/calendar/  total: 4 success: 1 skip:3 fail: 0 -------------------
+run //lamp/foodtrucksmap/foodtrucksmap/trucks//Blendid/get_schedules.bash
+------------START: name Blendid  url http://www.blendidshakes.com/schedule-locations/----------------
+~~~~~~~calendarID:blendidsf@gmail.com ~~~~~~~~~~
+~~~~added one event: Genentech Shake Delivery~~~~~~~
+('Blendid', 129, '2015-05-12', 'lunch', '08:15:00', '09:15:00', 'California, USA', u'Genentech Shake Delivery', '36.778261', '-119.4179324')
+------------DONE: name: Blendid url: http://www.blendidshakes.com/schedule-locations/  total: 1 success: 1 skip:0 fail: 0 -------------------
+run //lamp/foodtrucksmap/foodtrucksmap/trucks//Casey_s_Pizza/get_schedules.bash
+------------START: name Casey's Pizza  url http://caseyspizzas.com----------------
+!!!ERROR: get the weekly schedule failedi 'NoneType' object has no attribute 'groupdict'!!!ERROR!!!
+------------DONE: name: Casey's Pizza url: http://caseyspizzas.com  total: 0 success: 0 skip:0 fail: 0 FAILED-------------------
+FAILED
+run //lamp/foodtrucksmap/foodtrucksmap/trucks//Curry_Up_Now/get_schedules.bash
+------------START: name Curry Up Now  url https://curryupnow.squarespace.com/truck-schedule----------------
+~~~~added one event: LUNCH</strong><br />225 Bush (FiDi)  ~~~~~~~
+('Curry Up Now', 117, '2015-05-04', 'lunch', '11:00:00', '14:00:00', '225 Bush Street, San Francisco, CA 94104, USA', '225 Bush Street, San Francisco, CA 94104', '37.7908343', '-122.4015725')
+----skip----
+GFoodLounge (SoMa)  2015-05-04
+~~~~added one event: Verizon (San Jose)  ~~~~~~~
+('Curry Up Now', 117, '2015-05-04', 'lunch', '11:00:00', '14:00:00', '375 West Trimble Road, San Jose, CA 95131, USA', '375 W Trimble Rd, San Jose, CA 95131', '37.3844772', '-121.9327289')
+----skip----
+OTG Stanford University  2015-05-04
+~~~~added one event: LUNCH</strong><br />225 Bush (FiDi)  ~~~~~~~
+('Curry Up Now', 117, '2015-05-05', 'lunch', '11:00:00', '14:00:00', '225 Bush Street, San Francisco, CA 94104, USA', '225 Bush Street, San Francisco, CA 94104', '37.7908343', '-122.4015725')
+----skip----
+GFoodLounge (SoMa)  2015-05-05
+short google url for 2015-05-05 start: 11:30:00 end: 14:00:00  short_url: https://goo.gl/maps/VoJyx"><span style="font-size:15px"
+----skip----
+DINNER</strong><br />OTG Burlingame  2015-05-05
+----skip----
+OTG Cupertino  2015-05-05
+----skip----
+OTG San Anselmo  2015-05-05
+~~~~added one event: LUNCH</strong><br />225 Bush (FiDi)  ~~~~~~~
+('Curry Up Now', 117, '2015-05-06', 'lunch', '11:00:00', '14:00:00', '225 Bush Street, San Francisco, CA 94104, USA', '225 Bush Street, San Francisco, CA 94104', '37.7908343', '-122.4015725')
+~~~~added one event: SFSU West Campus Green  ~~~~~~~
+('Curry Up Now', 117, '2015-05-06', 'lunch', '11:00:00', '14:00:00', 'San Francisco State University, 1600 Holloway Avenue, San Francisco, CA 94132, USA', 'San Francisco State University', '37.721897', '-122.4782094')
+----skip----
+DINNER</strong><br />OTG Pleasant Hill  2015-05-06
+~~~~added one event: LUNCH</strong><br />225 Bush (FiDi)  ~~~~~~~
+('Curry Up Now', 117, '2015-05-07', 'lunch', '11:00:00', '14:00:00', '225 Bush Street, San Francisco, CA 94104, USA', '225 Bush Street, San Francisco, CA 94104', '37.7908343', '-122.4015725')
+----skip----
+OTG UN Plaza  2015-05-07
+----skip----
+TruckStopSF (Mission)  2015-05-07
+~~~~added one event: SFSU West Campus Green  ~~~~~~~
+('Curry Up Now', 117, '2015-05-07', 'lunch', '11:00:00', '14:00:00', 'San Francisco State University, 1600 Holloway Avenue, San Francisco, CA 94132, USA', 'San Francisco State University', '37.721897', '-122.4782094')
+----skip----
+DINNER</strong><br />OTG Sunnyvale  2015-05-07
+----skip----
+OTG Upper Haight  2015-05-07
+~~~~added one event: LUNCH</strong><br />225 Bush (FiDi)  ~~~~~~~
+('Curry Up Now', 117, '2015-05-08', 'lunch', '11:00:00', '14:00:00', '225 Bush Street, San Francisco, CA 94104, USA', '225 Bush Street, San Francisco, CA 94104', '37.7908343', '-122.4015725')
+~~~~added one event: ORDER PICKUP</a><br /><span style="font-size:15px">Oracle (Redwood City)  ~~~~~~~
+('Curry Up Now', 117, '2015-05-08', 'lunch', '11:00:00', '14:00:00', '110 Oracle Parkway, Redwood City, CA 94065, USA', '110 Oracle Pkwy, Redwood City, CA 94065', '37.5302897', '-122.2666057')
+----skip----
+ORDER PICKUP</a><br />SoMa StrEat Food Park  2015-05-08
+----skip----
+ORDER PICKUP</a><br /><strong>DINNER</strong><br />OTG Fort Mason Center  2015-05-08
+~~~~added one event: San Mateo Farmer's Market  ~~~~~~~
+('Curry Up Now', 117, '2015-05-09', 'lunch', '9:00:00', '13:00:00', '1700 West Hillsdale Boulevard, San Mateo, CA 94402, USA', '1700 W Hillsdale Blvd, San Mateo, CA 94402', '37.5350511', '-122.335123')
+~~~~added one event: Spicy Unlimited (SF Embarcadero)  ~~~~~~~
+('Curry Up Now', 117, '2015-05-09', 'lunch', '10:00:00', '18:00:00', 'California, USA', 'Justin Herman Plaza', '36.778261', '-119.4179324')
+----skip----
+OTG San Jose (Evergreen Village)  2015-05-09
+------------DONE: name: Curry Up Now url: https://curryupnow.squarespace.com/truck-schedule  total: 26 success: 11 skip:14 fail: 1 FAILED-------------------
+FAILED
+run //lamp/foodtrucksmap/foodtrucksmap/trucks//DUM_Truck/get_schedules.bash
+------------START: name DUM Truck  url http://www.dumsf.com/events/----------------
+----skip----
+PRESIDIO PICNIC - OFF THE GRID null2015-05-10
+~~~~added one event: LUNCH @888 BRANNAN~~~~~~~
+('DUM Truck', 113, '2015-05-12', 'lunch', '11:00:00', '14:00:00', '888 Brannan Street, San Francisco, CA 94103, USA', '888 BRANNAN ST, SAN FRANCISCO CA', '37.7718827', '-122.4052237')
+----skip----
+DINNER @ OFF THE GRID MENLO PARK 1120 Merrill St, Menlo Park, CA2015-05-13
+----skip----
+PRESIDIO PICNIC - Off The Grid  Beautiful views of the bay + great Indian food. Order our picnic basket - choice of any 4 items + 2 drinks for $40.2015-05-17
+----skip----
+LUNCH @OFF THE GRID UNITED NATIONS PLAZA 1150 Market St, San Francisco, San Francisco2015-05-19
+----skip----
+Lunch @ Off The Grid 5th & Minna null2015-05-20
+----skip----
+Twilight at the Presidio - Off the Grid null2015-05-21
+----skip----
+LUNCH @GFOOD LOUNGE  null2015-05-22
+----skip----
+PRESIDIO PICNIC - Off the Grid Beautiful views of the bay + great Indian food. Order our picnic basket - choice of any 4 items + 2 drinks for $40.2015-05-24
+~~~~added one event: LUNCH @888 BRANNAN STREET~~~~~~~
+('DUM Truck', 113, '2015-05-26', 'lunch', '11:00:00', '14:00:00', '888 Brannan Street, San Francisco, CA 94103, USA', '888 BRANNAN ST. SAN FRANCISCO CA', '37.7718827', '-122.4052237')
+----skip----
+Dinner @OffTheGrid - Menlo Park null2015-05-27
+----skip----
+Lunch @OffTheGrid - Vallejo St. & Front St. San Francisco Vallejo St. &amp; Front St. San Francisco CA2015-05-29
+----skip----
+PRESIDIO PICNIC - Off the Grid null2015-05-31
+------------DONE: name: DUM Truck url: http://www.dumsf.com/events/  total: 13 success: 2 skip:11 fail: 0 -------------------
+run //lamp/foodtrucksmap/foodtrucksmap/trucks//Ebbett_s_Good_to_Go/get_schedules.bash
+------------START: name Ebbett's Good to Go  url http://tinyurl.com/Ebbettscalendar----------------
+~~~~~~~calendarID:lk3ib70tqh4b62vgjj8lprvbn0@group.calendar.google.com ~~~~~~~~~~
+~~~~added one event: Oakland Museum of CA~~~~~~~
+("Ebbett's Good to Go", 108, '2015-05-15', 'dinner', '17:00:00', '21:00:00', 'Oakland Museum of California, 1000 Oak Street, Oakland, CA 94607, USA', u'Oakland Museum of CA', '37.7986962', '-122.2641246')
+~~~~added one event: 64th & Hollis - Emeryville~~~~~~~
+("Ebbett's Good to Go", 108, '2015-05-15', 'lunch', '11:00:00', '13:30:00', 'Emeryville, CA, USA', u'64th & Hollis - Emeryville', '37.831316', '-122.2852473')
+----skip----
+Off the Grid: 5th & Minna
+~~~~added one event: Uncorked~~~~~~~
+("Ebbett's Good to Go", 108, '2015-05-09', 'lunch', '13:00:00', '18:00:00', 'California, USA', u'Uncorked', '36.778261', '-119.4179324')
+----skip----
+Private Event
+------------DONE: name: Ebbett's Good to Go url: http://tinyurl.com/Ebbettscalendar  total: 5 success: 3 skip:2 fail: 0 -------------------
+run //lamp/foodtrucksmap/foodtrucksmap/trucks//Fins_on_the_Hoof/get_schedules.bash
+------------START: name Fins on the Hoof  url http://www.finsonthehoof.com/calendar.html----------------
+~~~~~~~calendarID:vl6k5gmrohv4kvj1tt1od8c9bc@group.calendar.google.com ~~~~~~~~~~
+----skip----
+presidio picnic, otg market
+----skip----
+closed
+----skip----
+closed
+----skip----
+closed
+----skip----
+closed
+~~~~added one event: 5th & townsend~~~~~~~
+('Fins on the Hoof', 104, '2015-05-13', 'lunch', '11:00:00', '14:00:00', 'West 5th Street, Santa Ana, CA 92703, USA', u'5th & townsend', '33.7489008', '-117.9096354')
+~~~~added one event: foster city~~~~~~~
+('Fins on the Hoof', 104, '2015-05-13', 'dinner', '17:00:00', '21:00:00', 'Foster City, CA, USA', u'foster city', '37.5585465', '-122.2710788')
+~~~~added one event: 5th & minna~~~~~~~
+('Fins on the Hoof', 104, '2015-05-15', 'lunch', '11:00:00', '14:00:00', 'California, USA', u'5th & minna', '36.778261', '-119.4179324')
+------------DONE: name: Fins on the Hoof url: http://www.finsonthehoof.com/calendar.html  total: 8 success: 3 skip:5 fail: 0 -------------------
+run //lamp/foodtrucksmap/foodtrucksmap/trucks//Frozen_Kuhsterd/get_schedules.bash
+------------START: name Frozen Kuhsterd  url http://frozenkuhsterd.com/----------------
+~~~~~~~calendarID:calendarfk@gmail.com ~~~~~~~~~~
+~~~~added one event: Hiller Aviation Museum~~~~~~~
+('Frozen Kuhsterd', 102, '2015-05-13', 'lunch', '11:00:00', '14:00:00', 'San Carlos Airport, 601 Skyway Road, San Carlos, CA 94070, USA', u'601 Skyway Rd, San Carlos, CA 94070', '37.5127509', '-122.2530054')
+----skip----
+Off the Grid: Serramonte
+----skip----
+Off the Grid: Foster City
+----skip----
+Off the Grid: Pleasanton
+----skip----
+Moveable Feast: Willow Glen
+~~~~added one event: Maker Faire 2015 (TENT)~~~~~~~
+('Frozen Kuhsterd', 102, '2015-05-16', 'lunch', '10:00:00', '18:00:00', 'California, USA', u'San Mateo County Event Center, 1346 Saratoga Drive, San Mateo, CA 94403, United States', '36.778261', '-119.4179324')
+----skip----
+SOMA Streat Food Park
+----skip----
+Off the Grid: Emeryville Public Market
+~~~~added one event: OysterFest (TENT)~~~~~~~
+('Frozen Kuhsterd', 102, '2015-05-09', 'lunch', '11:00:00', '18:00:00', '320 Bowling Green Drive, San Francisco, CA 94122, USA', u'320 Bowling Green Dr, San Francisco, CA 94122, USA', '37.769273', '-122.4576473')
+~~~~added one event: Spicy Unlimited (TRUCK)~~~~~~~
+('Frozen Kuhsterd', 102, '2015-05-09', 'lunch', '11:00:00', '18:00:00', 'California, USA', u'Justin Herman Plaza, 1 Market Street, San Francisco, CA 94133, United States', '36.778261', '-119.4179324')
+------------DONE: name: Frozen Kuhsterd url: http://frozenkuhsterd.com/  total: 10 success: 4 skip:6 fail: 0 -------------------
+run //lamp/foodtrucksmap/foodtrucksmap/trucks//Go_Streatery/get_schedules.bash
+------------START: name Go Streatery  url http://gostreatery.com/Find.html----------------
+~~~~~~~calendarID:8cs8mkq2326o1ht801bets9af0@group.calendar.google.com ~~~~~~~~~~
+----skip----
+Off the Grid: Oakland Museum Of CA
+----skip----
+Dinner: Off the Grid: El Cerrito
+~~~~added one event: Dinner Berkeley Northside~~~~~~~
+('Go Streatery', 100, '2015-05-10', 'dinner', '17:00:00', '20:00:00', 'North Berkeley BART Station, Berkeley, CA 94702, USA', u'North Berkeley Bart Station', '37.87429', '-122.283182')
+~~~~added one event: Lunch: Bites by the Lake~~~~~~~
+('Go Streatery', 100, '2015-05-10', 'lunch', '12:00:00', '15:00:00', 'California, USA', u'By Lake Merrit Library Parking Lot', '36.778261', '-119.4179324')
+~~~~added one event: Dinner: San Lorenzo SE~~~~~~~
+('Go Streatery', 100, '2015-05-14', 'dinner', '17:00:00', '21:00:00', 'Hesperian Boulevard & Paseo Grande, San Lorenzo, CA 94580, USA', u'Paseo Grande and Hesperian, San Lorenzo', '37.6793556', '-122.1268235')
+~~~~added one event: Lunch: Alameda South Shore Center~~~~~~~
+('Go Streatery', 100, '2015-05-09', 'lunch', '11:00:00', '15:00:00', 'South Shore Center, Alameda, CA 94501, USA', u'S Shore Center, Alameda, CA 94501, USA', '37.7580015', '-122.2535006')
+----skip----
+Private
+~~~~added one event: Lunch: Emeryville Public Market~~~~~~~
+('Go Streatery', 100, '2015-05-14', 'lunch', '11:00:00', '14:00:00', 'Public Market Emeryville, 5959 Shellmound Street, Emeryville, CA 94608, USA', u'Public Market Emeryville, 5959 Shellmound Street, Emeryville, CA 94608, United States', '37.8411224', '-122.2935986')
+------------DONE: name: Go Streatery url: http://gostreatery.com/Find.html  total: 8 success: 5 skip:3 fail: 0 -------------------
+run //lamp/foodtrucksmap/foodtrucksmap/trucks//Grilled_Cheese_Bandits/get_schedules.bash
+------------START: name Grilled Cheese Bandits  url http://www.grilledcheesebandits.com/index.html----------------
+!!!ERROR: get the date schedule failed 0!!!ERROR!!!
+------------DONE: name: Grilled Cheese Bandits url: http://www.grilledcheesebandits.com/index.html  total: 0 success: 0 skip:0 fail: 0 FAILED-------------------
+FAILED
+run //lamp/foodtrucksmap/foodtrucksmap/trucks//Hongry_Kong/get_schedules.bash
+------------START: name Hongry Kong  url http://www.hongrykong.com/schedule.html----------------
+~~~~~~~calendarID:h1jogmulp7av0blq8i40787eqc@group.calendar.google.com ~~~~~~~~~~
+~~~~added one event: 900 Chestnut St. San Carlos~~~~~~~
+('Hongry Kong', 91, '2015-05-15', 'dinner', '17:00:00', '20:00:00', '900 Chestnut Street, San Carlos, CA 94070, USA', u'900 Chestnut St. San Carlos', '37.4992146', '-122.2603769')
+~~~~added one event: 900 Chestnut St. San Carlos~~~~~~~
+('Hongry Kong', 91, '2015-05-16', 'lunch', '10:00:00', '17:00:00', '900 Chestnut Street, San Carlos, CA 94070, USA', u'900 Chestnut St. San Carlos', '37.4992146', '-122.2603769')
+~~~~added one event: 550 16th St. SF~~~~~~~
+('Hongry Kong', 91, '2015-05-11', 'lunch', '11:00:00', '14:00:00', '550 16th Street, San Francisco, CA 94158, USA', u'550 16th St. SF', '37.7672262', '-122.3907482')
+~~~~added one event: San Pablo Ave & Fairmount El Cerrito~~~~~~~
+('Hongry Kong', 91, '2015-05-13', 'dinner', '17:00:00', '21:00:00', 'San Pablo Av:Fairmount Av, El Cerrito, CA 94530, USA', u'San Pablo Ave & Fairmount El Cerrito', '37.900202', '-122.302555')
+~~~~added one event: 428 11th St. SF~~~~~~~
+('Hongry Kong', 91, '2015-05-12', 'dinner', '17:00:00', '22:00:00', '428 11th Street, San Francisco, CA 94103, USA', u'428 11th St. SF', '37.7697686', '-122.4120492')
+~~~~added one event: 901 Gateway Blvd. SSF~~~~~~~
+('Hongry Kong', 91, '2015-05-12', 'lunch', '11:30:00', '13:30:00', '901 Gateway Boulevard, South San Francisco, CA 94080, USA', u'901 Gateway Blvd. SSF', '37.6614459', '-122.3973076')
+~~~~added one event: SFSU West Campus~~~~~~~
+('Hongry Kong', 91, '2015-05-13', 'lunch', '11:00:00', '14:00:00', 'San Francisco State University, 1600 Holloway Avenue, San Francisco, CA 94132, USA', u'SFSU West Campus', '37.721897', '-122.4782094')
+~~~~added one event: 4833 Bernal Ave Pleasanton ~~~~~~~
+('Hongry Kong', 91, '2015-05-16', 'lunch', '10:00:00', '15:00:00', '4833 Bernal Avenue, Pleasanton, CA 94566, USA', u'4833 Bernal Ave Pleasanton ', '37.6572904', '-121.8798576')
+~~~~added one event: 890 Escondido Rd. Stanford~~~~~~~
+('Hongry Kong', 91, '2015-05-15', 'dinner', '17:00:00', '20:00:00', '890 Escondido Road, Stanford, CA 94305, USA', u'890 Escondido Rd. Stanford', '37.4215229', '-122.1553109')
+~~~~added one event: 5001 Case Ave, Pleasanton~~~~~~~
+('Hongry Kong', 91, '2015-05-14', 'dinner', '17:30:00', '20:00:00', '5001 Case Avenue, Pleasanton, CA 94566, USA', u'5001 Case Ave, Pleasanton', '37.6545518', '-121.8839258')
+~~~~added one event: 4345 Rosewood Drive Pleasanton~~~~~~~
+('Hongry Kong', 91, '2015-05-15', 'lunch', '11:30:00', '13:30:00', '4345 Rosewood Drive, Pleasanton, CA 94588, USA', u'4345 Rosewood Drive Pleasanton', '37.7004966', '-121.8752459')
+!!!ERROR: sql fail (maybe)!!!ERROR!!!
+e: 'ascii' codec can't encode character u'\xa0' in position 39: ordinal not in range(128)
+Hongry Kong
+date:2015-05-14
+start_time: 11:00:00
+end_time: 14:00:00
+!!!ERROR: unexpected error!!!ERROR!!!
+e: 'ascii' codec can't encode character u'\xa0' in position 27: ordinal not in range(128)
+event {u'status': u'confirmed', u'kind': u'calendar#event', u'end': {u'dateTime': u'2015-05-14T14:00:00-07:00'}, u'created': u'2015-04-18T02:11:44.000Z', u'iCalUID': u'61EC939D-DFE1-40CB-B9EB-2DE9EA28D12C', u'reminders': {u'useDefault': True}, u'htmlLink': u'https://www.google.com/calendar/event?eid=XzZvb2thZ3BwNmNzazhiYTQ4cDJqMmI5azYxMWs0YmEyNzUyazRiOWk4aDJqaWhhMTY4czQ4YzlpOGMgaDFqb2dtdWxwN2F2MGJscThpNDA3ODdlcWNAZw', u'sequence': 0, u'updated': u'2015-04-18T02:11:44.271Z', u'summary': u'3375 Hillview Ave.\xa0Palo Alto', u'start': {u'dateTime': u'2015-05-14T11:00:00-07:00'}, u'etag': u'"2858646208542000"', u'organizer': {u'self': True, u'displayName': u'Schedule', u'email': u'h1jogmulp7av0blq8i40787eqc@group.calendar.google.com'}, u'creator': {u'displayName': u'Hongry Kong', u'email': u'hongrykong@gmail.com'}, u'id': u'_6ookagpp6csk8ba48p2j2b9k611k4ba2752k4b9i8h2jiha168s48c9i8c'}
+start_date 2015-05-14 11:00:00 
+end_date: 2015-05-14 14:00:00
+date:2015-05-14
+start_time: 11:00:00
+end_time: 14:00:00
+Traceback (most recent call last):
+  File "../script/get_calendar.py", line 167, in <module>
+    print "address: %s" %address
+UnicodeEncodeError: 'ascii' codec can't encode character u'\xa0' in position 27: ordinal not in range(128)
+FAILED
+run //lamp/foodtrucksmap/foodtrucksmap/trucks//J_Shack/get_schedules.bash
+------------START: name J Shack  url http://www.jshacksf.com/schedule/----------------
+----skip----
+somastreatfoodpark2015-04-30
+~~~~added one event: NULL~~~~~~~
+('J Shack', 88, '2015-05-01', 'dinner', '16:30:00', '21:00:00', 'Liberty Street, Fremont, CA 94538, USA', 'fremont street eats (capital ave between state and liberty st, fremont)', '37.5489809', '-121.9783787')
+~~~~added one event: NULL~~~~~~~
+('J Shack', 88, '2015-05-03', 'lunch', '11:00:00', '18:00:00', 'San Francisco, CA, USA', 'urban air market - hayes valley (hayes and octavia, sf)', '37.7749295', '-122.4194155')
+~~~~added one event: NULL~~~~~~~
+('J Shack', 88, '2015-05-07', 'lunch', '11:00:00', '14:00:00', 'San Francisco, CA, USA', 'mission dispatch, sf', '37.7749295', '-122.4194155')
+----skip----
+offthegridupperhaight2015-05-07
+----skip----
+offthegridmountainview2015-05-08
+~~~~added one event: NULL~~~~~~~
+('J Shack', 88, '2015-05-09', 'lunch', '11:00:00', '17:00:00', 'Oakland, CA, USA', 'jack of all trades  (jack london square, oakland)', '37.8043637', '-122.2711137')
+~~~~added one event: NULL~~~~~~~
+('J Shack', 88, '2015-05-14', 'lunch', '11:00:00', '14:00:00', 'Room 138, Electron Microscopy Facility, San Francisco State University, 1600 Holloway Avenue, San Francisco, CA 94132, USA', 'sfsu hensill hall', '37.7235292', '-122.4761763')
+----skip----
+somastreatfoodpark2015-05-14
+~~~~added one event: NULL~~~~~~~
+('J Shack', 88, '2015-05-15', 'dinner', '16:30:00', '21:00:00', 'Liberty Street, Fremont, CA 94538, USA', 'fremont street eats (capital ave between state and liberty st, fremont)', '37.5489809', '-121.9783787')
+----skip----
+sakefestival-somastreatfoodpark2015-05-14
+~~~~added one event: NULL~~~~~~~
+('J Shack', 88, '2015-05-21', 'lunch', '11:00:00', '14:00:00', 'San Francisco, CA, USA', 'mission dispatch, sf', '37.7749295', '-122.4194155')
+----skip----
+offthegridupperhaight2015-05-21
+~~~~added one event: NULL~~~~~~~
+('J Shack', 88, '2015-05-23', 'lunch', '11:00:00', '18:00:00', 'Lake Merritt, Oakland, CA 94607, USA', 'eastlake music festival (lake merritt, oakland)', '37.797484', '-122.265609')
+----skip----
+somastreatfoodpark2015-05-28
+~~~~added one event: NULL~~~~~~~
+('J Shack', 88, '2015-05-31', 'lunch', '11:00:00', '16:00:00', '1199 19th Avenue, San Francisco, CA 94122, USA', 'san francisco botanical garden community day event (1199 19th avenue, sf)', '37.7653083', '-122.4773909')
+!!!ERROR: fail to get all events verify_num 22 total 16!!!ERROR!!!
+------------DONE: name: J Shack url: http://www.jshacksf.com/schedule/  total: 22 success: 9 skip:7 fail: 0 FAILED MATH_ERROR-------------------
+FAILED
+run //lamp/foodtrucksmap/foodtrucksmap/trucks//Kasa_Indian/get_schedules.bash
+------------START: name Kasa Indian  url http://kasaindian.com/indian-restaurant-sf/truck/----------------
+------------DONE: name: Kasa Indian url: http://kasaindian.com/indian-restaurant-sf/truck/  total: 0 success: 0 skip:0 fail: 0 FAILED-------------------
+FAILED
+run //lamp/foodtrucksmap/foodtrucksmap/trucks//Keep_Rolling/get_schedules.bash
+------------START: name Keep Rolling  url http://www.keeprolling.co/follow-us.html----------------
+~~~~~~~calendarID:77in9jgq4sjftdpeoqp6rhd4f8@group.calendar.google.com ~~~~~~~~~~
+------------DONE: name: Keep Rolling url: http://www.keeprolling.co/follow-us.html  total: 0 success: 0 skip:0 fail: 0 FAILED-------------------
+FAILED
+run //lamp/foodtrucksmap/foodtrucksmap/trucks//Kenny_s_Heart_and_Soul/get_schedules.bash
+------------START: name Kenny's Heart and Soul  url http://www.kennysheartandsoul.com/truck----------------
+~~~~~~~calendarID:kenny.chiwah@gmail.com ~~~~~~~~~~
+~~~~added one event: Jack of all Trades~~~~~~~
+("Kenny's Heart and Soul", 82, '2015-05-09', 'lunch', '11:00:00', '17:00:00', 'California, USA', u'Jack London Square, Broadway & Embarcadero, Oakland, CA 94607, United States', '36.778261', '-119.4179324')
+~~~~added one event: Sierra Nevada Torpedo Room in Berkeley~~~~~~~
+("Kenny's Heart and Soul", 82, '2015-05-14', 'dinner', '16:30:00', '20:00:00', '2031 Fourth Street, Berkeley, CA 94710, USA', u'2031 4th St, Berkeley, CA 94710, USA', '37.8665608', '-122.2993891')
+----skip----
+Off the Grid: El Cerrito
+~~~~added one event: 2100 Powell~~~~~~~
+("Kenny's Heart and Soul", 82, '2015-05-13', 'lunch', '11:00:00', '14:00:00', '2100 Powell Street, Emeryville, CA 94608, USA', u'2100 Powell St, Emeryville, CA 94608, United States', '37.839293', '-122.298217')
+~~~~added one event: GoPro~~~~~~~
+("Kenny's Heart and Soul", 82, '2015-05-14', 'lunch', '11:00:00', '14:00:00', '3000 Clearview Way, San Mateo, CA 94402, USA', u'3000 Clearview Way, Building A | San Mateo, CA 94402', '37.5343891', '-122.3313003')
+----skip----
+Off the Grid: San Anselmo @ Red Hill Shopping Center
+~~~~added one event: UCSF ~~~~~~~
+("Kenny's Heart and Soul", 82, '2015-05-12', 'lunch', '11:00:00', '13:30:00', '747 52nd Street, Oakland, CA 94609, USA', u'747 52nd St\nOakland, CA, United States', '37.8368589', '-122.267059')
+~~~~added one event: Marshall School~~~~~~~
+("Kenny's Heart and Soul", 82, '2015-05-15', 'dinner', '17:00:00', '19:30:00', 'Marshall Elementary School, 3400 Malcolm Avenue, Oakland, CA 94605, USA', u'Marshall Elementary School, 3400 Malcolm Avenue, Oakland, CA 94605, United States', '37.7461686', '-122.1412211')
+~~~~added one event: Food Truck Days - San Ramon Valley High School~~~~~~~
+("Kenny's Heart and Soul", 82, '2015-05-15', 'lunch', '11:00:00', '13:30:00', '501 Danville Boulevard, Danville, CA 94526, USA', u'501 Danville Blvd, Danville, CA 94526, USA', '37.8260853', '-122.006033')
+~~~~added one event: Orinda Intermediate School~~~~~~~
+("Kenny's Heart and Soul", 82, '2015-05-16', 'lunch', '11:00:00', '12:00:00', '80 Ivy Drive, Orinda, CA 94563, USA', u'80 Ivy Drive, Orinda, CA 94563', '37.85261', '-122.1459022')
+~~~~added one event: Three Sheets~~~~~~~
+("Kenny's Heart and Soul", 82, '2015-05-09', 'dinner', '18:00:00', '21:00:00', 'Public Art "Three Sheets to the Wind", West Washington Boulevard, Culver City, CA 90066, USA', u'Three Sheets', '33.9974102', '-118.4256542')
+------------DONE: name: Kenny's Heart and Soul url: http://www.kennysheartandsoul.com/truck  total: 11 success: 9 skip:2 fail: 0 -------------------
+run //lamp/foodtrucksmap/foodtrucksmap/trucks//Lexie_s_Frozen_Custard/get_schedules.bash
+------------START: name Lexie's Frozen Custard  url http://www.lexiesfrozencustard.com/----------------
+~~~~~~~calendarID:lexiesfrozencustard@gmail.com ~~~~~~~~~~
+----skip----
+Off the Grid Emeryville
+----skip----
+Off the Grid El Cerrito
+~~~~added one event: Stoneridge Mall Pleasanton~~~~~~~
+("Lexie's Frozen Custard", 77, '2015-05-15', 'lunch', '11:00:00', '14:00:00', 'Workday Way, Pleasanton, CA 94588, USA', u'Workday Way, Pleasanton, CA 94588, USA', '37.6944585', '-121.9232909')
+~~~~added one event: Bites on the Lake~~~~~~~
+("Lexie's Frozen Custard", 77, '2015-05-10', 'lunch', '12:00:00', '15:00:00', 'Oakland Public Library, 550 El Embarcadero, Oakland, CA 94610, USA', u'Lakeview Library Oakland', '37.8091479', '-122.248895')
+------------DONE: name: Lexie's Frozen Custard url: http://www.lexiesfrozencustard.com/  total: 4 success: 2 skip:2 fail: 0 -------------------
+run //lamp/foodtrucksmap/foodtrucksmap/trucks//Liba_Falafel/get_schedules.bash
+------------START: name Liba Falafel  url http://libafalafel.com/locations/----------------
+~~~~~~~calendarID:k55qhespcp6tvkh5nfc6jhpvkc@group.calendar.google.com ~~~~~~~~~~
+~~~~added one event: Emeryville: 64th/Hollis~~~~~~~
+('Liba Falafel', 76, '2015-05-11', 'lunch', '11:30:00', '14:00:00', 'Hollis, CA 93250, USA', u'Emeryville: 64th/Hollis', '35.6674999', '-119.19028')
+~~~~added one event: SF: Vallejo/Front~~~~~~~
+('Liba Falafel', 76, '2015-05-15', 'lunch', '11:00:00', '14:00:00', 'California, USA', u'SF: Vallejo/Front', '36.778261', '-119.4179324')
+~~~~added one event: Oakland: Grand Lake Farmers Market~~~~~~~
+('Liba Falafel', 76, '2015-05-16', 'lunch', '09:00:00', '14:00:00', 'Lake Park Avenue & Grand Avenue, Oakland, CA 94610, USA', u'Grand Ave and Lakepark Way, Oakland, CA', '37.8118485', '-122.2499065')
+----skip----
+Truck closed - Oakland shop OPEN!
+----skip----
+Truck closed - Oakland shop OPEN!
+~~~~added one event: SF: 650 Townsend~~~~~~~
+('Liba Falafel', 76, '2015-05-14', 'lunch', '11:30:00', '14:00:00', '650 Townsend Street, San Francisco, CA 94103, USA', u'SF: 650 Townsend', '37.7710325', '-122.4033069')
+------------DONE: name: Liba Falafel url: http://libafalafel.com/locations/  total: 6 success: 4 skip:2 fail: 0 -------------------
+run //lamp/foodtrucksmap/foodtrucksmap/trucks//Little_Green_Cyclo/get_schedules.bash
+------------START: name Little Green Cyclo  url http://littlegreencyclo.com/----------------
+~~~~added one event: NULL~~~~~~~
+('Little Green Cyclo', 75, '2015-05-05', 'lunch', '11:00:00', '14:00:00', '8000 Marina Boulevard, Brisbane, CA 94005, USA', '8000 marina blvd., brisbane', '37.6743562', '-122.3849095')
+----skip----
+truck stop - 1st &amp; mission st., san francisco2015-05-06
+----skip----
+otg - front &amp; vallejo st., san francisco2015-05-07
+----skip----
+otg - 1120 merrill st., menlo park2015-05-07
+----skip----
+otg un plaza- 7th &amp; market st., san francisco2015-05-08
+~~~~added one event: NULL~~~~~~~
+('Little Green Cyclo', 75, '2015-05-08', 'lunch', '11:00:00', '14:00:00', '500 Nelson Rising Lane, San Francisco, CA 94158, USA', 'ucsf - 500 nelson rising lane, san francisco', '37.7697256', '-122.3899101')
+----skip----
+otg ft. mason - t.epiphany, san francisco2015-05-09
+----skip----
+otg - 523 south shore center, alameda2015-05-10
+----skip----
+otg - picnic @the presidio, san francisco2015-05-03
+------------DONE: name: Little Green Cyclo url: http://littlegreencyclo.com/  total: 9 success: 2 skip:7 fail: 0 -------------------
+run //lamp/foodtrucksmap/foodtrucksmap/trucks//Lobsta_Truck/get_schedules.bash
+------------START: name Lobsta Truck  url http://sf.lobstatruck.com/----------------
+~~~~added one event: ,                            Crowne Plaza</strong>,                            ~~~~~~~
+('Lobsta Truck', 71, '2015-05-04', 'dinner', '17:00:00', '21:00:00', '4290 El Camino Real, Palo Alto, CA 94306, USA', '4290 El Camino Real Palo Alto', '37.406137', '-122.1215351')
+----skip----
+Day Off null2015-05-05
+~~~~added one event: ,                            Foster City,                            </strong>~~~~~~~
+('Lobsta Truck', 71, '2015-05-06', 'dinner', '17:00:00', '21:00:00', '650 Shell Boulevard, Foster City, CA 94404, USA', '650 Shell Blvd Foster City', '37.5570607', '-122.2700152')
+~~~~added one event: ,                            Twilight at the Presidio,                            </strong>~~~~~~~
+('Lobsta Truck', 71, '2015-05-07', 'dinner', '17:00:00', '21:00:00', '103 Montgomery Street, San Francisco, CA 94104, USA', '103 Montgomery St San Francisco', '37.7900881', '-122.4022566')
+~~~~added one event: ,                            Downtown San Francisco,                            </strong>~~~~~~~
+('Lobsta Truck', 71, '2015-05-08', 'lunch', '11:00:00', '14:00:00', 'Minna Street & 5th Street, San Francisco, CA 94103, USA', 'Minna St at 5th St San Francisco', '37.7823139', '-122.4059628')
+~~~~added one event: ,                            Taste of the World,                            </strong>~~~~~~~
+('Lobsta Truck', 71, '2015-05-08', 'dinner', '17:00:00', '21:00:00', '1001 Harvey Drive, Walnut Creek, CA 94597, USA', '1001 Harvey Dr Walnut Creek', '37.927442', '-122.0556109')
+----skip----
+,                            Fort Mason -,                            Off the Grid,                            </strong> 2 Marina Blvd San Francisco2015-05-08
+~~~~added one event: ,                            South Shore Center,                            </strong>~~~~~~~
+('Lobsta Truck', 71, '2015-05-09', 'lunch', '11:00:00', '15:00:00', 'Franciscan Way, Alameda, CA 94501, USA', 'Park St and Franciscan Way Alameda', '37.7584838', '-122.2569429')
+~~~~added one event: ,                            Evergreen Village</strong><strong>,                            </strong>~~~~~~~
+('Lobsta Truck', 71, '2015-05-09', 'lunch', '11:00:00', '15:00:00', '4075 Evergreen Village Square, San Jose, CA 95135, USA', '4075 Evergreen Village Sq San Jose', '37.3144289', '-121.7733115')
+~~~~added one event: ,                            JCPenny Plaza,                            </strong>~~~~~~~
+('Lobsta Truck', 71, '2015-05-10', 'lunch', '11:00:00', '15:00:00', '5532 Springdale Avenue, Pleasanton, CA 94588, USA', '5532 Springdale Ave Pleasanton', '37.693017', '-121.9249198')
+~~~~added one event: ,                            Marin Country Mart,                            </strong>~~~~~~~
+('Lobsta Truck', 71, '2015-05-10', 'lunch', '11:00:00', '15:00:00', '2257 Larkspur Landing Circle, Larkspur, CA 94939, USA', '2257 Larkspur Landing Cir Larkspur', '37.9477234', '-122.5080286')
+------------DONE: name: Lobsta Truck url: http://sf.lobstatruck.com/  total: 11 success: 9 skip:2 fail: 0 -------------------
+run //lamp/foodtrucksmap/foodtrucksmap/trucks//Manna/get_schedules.bash
+------------START: name Manna  url http://www.mannajpt.com/----------------
+!!!ERROR: get the daily schedule failed!!!ERROR!!!
+------------DONE: name: Manna url: http://www.mannajpt.com/  total: 0 success: 0 skip:0 fail: 0 FAILED-------------------
+FAILED
+run //lamp/foodtrucksmap/foodtrucksmap/trucks//Meathead/get_schedules.bash
+------------START: name Meathead  url http://www.meatheadtruck.com/----------------
+----skip----
+Off the Grid Hayward: 777 B St, Hayward, CA 945412015-03-23
+!!!ERROR: sql fail (maybe)!!!ERROR!!!
+e: (1062, "Duplicate entry '2015-03-24-17:00:00-21:00:00-Davis St &amp; Hayes St, San Leandr' for key 'PRIMARY'")
+Meathead
+date:2015-03-24
+start_time: 17:00:00
+end_time: 21:00:00
+address: Davis St &amp; Hayes St, San Leandro, CA 94577
+meal: dinner
+good error!
+----skip----
+Off the Grid Emeryville: 1333 Park Avenue at Haven St, Emeryville, CA 946082015-03-25
+!!!ERROR: sql fail (maybe)!!!ERROR!!!
+e: (1062, "Duplicate entry '2015-03-25-17:00:00-20:00:00-wall St., Livermore CA-65' for key 'PRIMARY'")
+Meathead
+date:2015-03-25
+start_time: 17:00:00
+end_time: 20:00:00
+address: wall St., Livermore CA
+meal: dinner
+good error!
+----skip----
+Off the Grid Novato Vintage Oaks: 201 Vintage Way, Novato CA 949452015-03-26
+!!!ERROR: sql fail (maybe)!!!ERROR!!!
+e: (1062, "Duplicate entry '2015-03-27-11:00:00-13:00:00-Smugmug 67 E Evelyn Ave., Mountain ' for key 'PRIMARY'")
+Meathead
+date:2015-03-27
+start_time: 11:00:00
+end_time: 13:00:00
+address: Smugmug 67 E Evelyn Ave., Mountain View, CA 94041
+meal: lunch
+good error!
+!!!ERROR: sql fail (maybe)!!!ERROR!!!
+e: (1062, "Duplicate entry '2015-03-28-10:00:00-12:00:00-33415 Western Ave., Union City, CA-' for key 'PRIMARY'")
+Meathead
+date:2015-03-28
+start_time: 10:00:00
+end_time: 12:00:00
+address: 33415 Western Ave., Union City, CA
+meal: lunch
+good error!
+!!!ERROR: sql fail (maybe)!!!ERROR!!!
+e: (1062, "Duplicate entry '2015-03-28-11:00:00-16:00:00-3125 Sir Francis Drake Blvd, Fairfa' for key 'PRIMARY'")
+Meathead
+date:2015-03-28
+start_time: 11:00:00
+end_time: 16:00:00
+address: 3125 Sir Francis Drake Blvd, Fairfax, CA.
+meal: lunch
+good error!
+----skip----
+Off the Grid Pleasanton: 5532 Springdale Ave, Pleasanton, CA 945882015-03-29
+!!!ERROR: sql fail (maybe)!!!ERROR!!!
+e: (1062, "Duplicate entry '2015-03-29-17:00:00-20:00:00-Broadway &amp; 10th St., Oakland, C' for key 'PRIMARY'")
+Meathead
+date:2015-03-29
+start_time: 17:00:00
+end_time: 20:00:00
+address: Broadway &amp; 10th St., Oakland, CA
+meal: dinner
+good error!
+------------DONE: name: Meathead url: http://www.meatheadtruck.com/  total: 10 success: 6 skip:4 fail: 0 -------------------
+run //lamp/foodtrucksmap/foodtrucksmap/trucks//Me_So_Hungry/get_schedules.bash
+------------START: name Me So Hungry  url http://mesohungrytruck.com/----------------
+----skip----
+Warriors Playoff Game 3 null2015-05-09
+----skip----
+Oysterfest (SF) null2015-05-09
+----skip----
+Mighty (SF) null2015-05-09
+----skip----
+Sunday Streets (SF) null2015-05-10
+----skip----
+EHS Grand Opening (SF) null2015-05-10
+----skip----
+Warriors Playoff Game 4 null2015-05-11
+----skip----
+Private Event null2015-05-11
+----skip----
+SOMA StrEat Food Park (SF) null2015-05-11
+----skip----
+Oakland null2015-05-12
+----skip----
+Farmer&#039;s Market (Novato) null2015-05-12
+----skip----
+Warriors Playoff Game 5 null2015-05-13
+----skip----
+GFood Lounge (SF) 231 2nd St, San Francisco, CA 94105, USA2015-05-13
+----skip----
+SOMA StrEat Food Park (SF) null2015-05-13
+----skip----
+FTM San Lorenzo null2015-05-14
+------------DONE: name: Me So Hungry url: http://mesohungrytruck.com/  total: 14 success: 0 skip:14 fail: 0 -------------------
+run //lamp/foodtrucksmap/foodtrucksmap/trucks//Moonstruck/get_schedules.bash
+------------START: name Moonstruck  url http://www.moonstruck.info/where-is-moonstruck----------------
+!!!ERROR: fail to open the url!!!ERROR!!!
+<urlopen error [Errno -2] Name or service not known>
+------------DONE: name: Moonstruck url: http://www.moonstruck.info/where-is-moonstruck  total: 0 success: 0 skip:0 fail: 0 FAILED-------------------
+FAILED
+run //lamp/foodtrucksmap/foodtrucksmap/trucks//Naked_Chorizo/get_schedules.bash
+------------START: name Naked Chorizo  url http://www.nakedchorizo.com/calendar.html----------------
+~~~~~~~calendarID:nakedchorizo@gmail.com ~~~~~~~~~~
+----skip----
+Join us @ #TruckStop, 450 Mission St., #hungry #SF
+----skip----
+#Dinner #Peninsula join us for dinner @ #OTG #Belmont
+----skip----
+#Peninsula join us for #dinner@#OTG #Burlingame 1190 California Dr
+~~~~added one event: #Lunch#SF 1001 #Potrero Ave~~~~~~~
+('Naked Chorizo', 62, '2015-05-13', 'lunch', '11:30:00', '14:30:00', '1001 Potrero Avenue, San Francisco, CA 94110, USA', u'#Lunch#SF 1001 #Potrero Ave', '37.7563143', '-122.4044861')
+~~~~added one event: Join us for #lunch @ #GFoodTruckLounge 431 2nd St., SF~~~~~~~
+('Naked Chorizo', 62, '2015-05-14', 'lunch', '11:00:00', '14:00:00', '431 2nd Street, San Francisco, CA 94107, USA', u' #GFoodTruckLounge 431 2nd St., SF', '37.7837031', '-122.3943769')
+------------DONE: name: Naked Chorizo url: http://www.nakedchorizo.com/calendar.html  total: 5 success: 2 skip:3 fail: 0 -------------------
+run //lamp/foodtrucksmap/foodtrucksmap/trucks//No_Worries/get_schedules.bash
+------------START: name No Worries  url http://www.filipinoveganfood.com/calendar/----------------
+~~~~added one event: Oakland Book Festival~~~~~~~
+('No Worries', 59, '2015-05-31', 'lunch', '11:00:00', '17:00:00', '1 Frank H Ogawa Plaza, Oakland, CA 94612, USA', '1 Frank H Ogawa Plaza Oakland, CA, 94612 United States', '37.8053639', '-122.2724809')
+----skip----
+Off the Grid: Uptown Oakland Williams St and Telegaph Ave Oakland, CA, 94605 United States2015-05-28
+~~~~added one event: Cal State University - East Bay~~~~~~~
+('No Worries', 59, '2015-05-27', 'lunch', '11:00:00', '14:30:00', 'California State University, East Bay, 25800 Carlos Bee Boulevard, Hayward, CA 94542, USA', '25800 Carlos Bee Blvd Hayward, CA, 94542 United States', '37.6582681', '-122.0600356')
+----skip----
+Off the Grid: North Berkeley BART Station 1750 Sacramento St Berkeley, CA, 94702 United States2015-05-24
+----skip----
+SFSU AAS Graduation - Private catering 388 9th St Oakland, CA, 94607 United States2015-05-24
+~~~~added one event: Alameda High School Food Faire~~~~~~~
+('No Worries', 59, '2015-05-22', 'lunch', '12:00:00', '13:00:00', '2201 Encinal Avenue, Alameda, CA 94501, USA', '2201 Encinal Ave Alameda, CA, 94501 United States', '37.7640929', '-122.2471536')
+----skip----
+Private Catering 511 Harrison St San Francisco, CA, 94105 United States2015-05-21
+~~~~added one event: Cal State University - East Bay~~~~~~~
+('No Worries', 59, '2015-05-20', 'lunch', '11:00:00', '14:30:00', 'California State University, East Bay, 25800 Carlos Bee Boulevard, Hayward, CA 94542, USA', '25800 Carlos Bee Blvd Hayward, CA, 94542 United States', '37.6582681', '-122.0600356')
+~~~~added one event: Seeds of Change Fundraiser~~~~~~~
+('No Worries', 59, '2015-05-16', 'dinner', '17:00:00', '19:30:00', 'California, USA', 'Seeds of Change Fundraiser', '36.778261', '-119.4179324')
+----skip----
+Private Catering 470 W Portal Ave San Francisco, CA, 94127 United States2015-05-15
+----skip----
+Off the Grid: Uptown Oakland Williams St and Telegraph Oakland, CA, 94605 United States2015-05-14
+~~~~added one event: Cal State University - East Bay~~~~~~~
+('No Worries', 59, '2015-05-13', 'lunch', '11:00:00', '14:30:00', 'California State University, East Bay, 25800 Carlos Bee Boulevard, Hayward, CA 94542, USA', '25800 Carlos Bee Blvd Hayward, CA, 94542 United States', '37.6582681', '-122.0600356')
+----skip----
+Off the Grid: North Berkeley BART Station 1750 Sacramento St Berkeley, CA, 94702 United States2015-05-10
+----skip----
+Off the Grid: Alameda @ South Shore Center Park St and Franciscan Alameda, CA United States2015-05-09
+~~~~added one event: Relay for Life - Cal State University East Bay ~~~~~~~
+('No Worries', 59, '2015-05-08', 'dinner', '18:00:00', '21:00:00', 'California State University, East Bay, 25800 Carlos Bee Boulevard, Hayward, CA 94542, USA', '25800 Carlos Bee Blvd Hayward, CA, 94542 United States', '37.6582681', '-122.0600356')
+----skip----
+Off the Grid: Uptown Oakland William St Oakland, CA, 94612 United States2015-05-07
+~~~~added one event: Cal State University - East Bay~~~~~~~
+('No Worries', 59, '2015-05-06', 'lunch', '11:00:00', '14:30:00', 'Carlos Bee Boulevard, Hayward, CA, USA', 'Carlos Bee Blvd Hayward, CA United States', '37.6593223', '-122.0647059')
+----skip----
+Private Catering Private Catering2015-05-02
+------------DONE: name: No Worries url: http://www.filipinoveganfood.com/calendar/  total: 18 success: 8 skip:10 fail: 0 -------------------
+run //lamp/foodtrucksmap/foodtrucksmap/trucks//Pacific_Puffs/get_schedules.bash
+------------START: name Pacific Puffs  url http://www.pacificpuffs.com/truck.html----------------
+~~~~~~~calendarID:pacificpuffs1@gmail.com ~~~~~~~~~~
+----skip----
+OfftheGrid San Anselmo
+----skip----
+OfftheGrid Menlo Park
+----skip----
+OfftheGrid Novato
+------------DONE: name: Pacific Puffs url: http://www.pacificpuffs.com/truck.html  total: 3 success: 0 skip:3 fail: 0 -------------------
+run //lamp/foodtrucksmap/foodtrucksmap/trucks//SAJJ/get_schedules.bash
+------------START: name SAJJ  url http://www.sajjstreeteats.com/food-truck/----------------
+~~~~~~~calendarID:sajjstreeteats@gmail.com ~~~~~~~~~~
+----skip----
+Sajj truck @ off the grid in Belmont!! 
+~~~~added one event: Sajj Truck @ the UN Plaza San Francisco ~~~~~~~
+('SAJJ', 47, '2015-05-12', 'lunch', '11:00:00', '14:00:00', 'UN Plaza, McAllister Street, San Francisco, CA 94102, USA', u'UN Plaza San Francisco ', '37.7798761', '-122.4139862')
+~~~~added one event: Sajj Truck in Palo Alto~~~~~~~
+('SAJJ', 47, '2015-05-13', 'lunch', '11:00:00', '14:00:00', '2300 Geng Road, Palo Alto, CA 94303, USA', u'2300 Geng Rd, Palo Alto ', '37.4513333', '-122.1214268')
+----skip----
+Sajj Truck @ Off the grid San Francisco 
+------------DONE: name: SAJJ url: http://www.sajjstreeteats.com/food-truck/  total: 4 success: 2 skip:2 fail: 0 -------------------
+run //lamp/foodtrucksmap/foodtrucksmap/trucks//Sam_s_Chowder_Mobile/get_schedules.bash
+------------START: name Sam's Chowder Mobile  url http://www.samschowdermobile.com/----------------
+~~~~~~~calendarID:samschowdermobile@gmail.com ~~~~~~~~~~
+~~~~added one event: Anderson Direct ~~~~~~~
+("Sam's Chowder Mobile", 44, '2015-05-13', 'lunch', '11:00:00', '14:00:00', '1766 Embarcadero Road, Palo Alto, CA 94303, USA', u'1766 Embarcadero rd Palo Alto 94303', '37.4502818', '-122.1176361')
+~~~~added one event: Hiller Aviation Museum~~~~~~~
+("Sam's Chowder Mobile", 44, '2015-05-13', 'lunch', '11:00:00', '14:00:00', 'San Carlos Airport, 601 Skyway Road, San Carlos, CA 94070, USA', u'601 Skyway Rd, San Carlos, CA 94070', '37.5127509', '-122.2530054')
+----skip----
+PRIVATE ROUTE 
+----skip----
+PRIVATE ROUTE MF Moffett Towers
+----skip----
+***Private Event - 360 Food Truck
+----skip----
+***Private Event - School Fundraiser
+~~~~added one event: Brewer Island Spring Fling~~~~~~~
+("Sam's Chowder Mobile", 44, '2015-05-15', 'dinner', '17:30:00', '20:30:00', 'Brewer Island Elementary School, 1151 Polynesia Drive, Foster City, CA 94404, USA', u'Brewer Island Elementary School, 1151 Polynesia Drive, Foster City, CA 94404, United States', '37.561614', '-122.261451')
+~~~~added one event: MF Willow Glen~~~~~~~
+("Sam's Chowder Mobile", 44, '2015-05-15', 'dinner', '17:00:00', '21:00:00', '2310 Canoas Garden Avenue, San Jose, CA 95125, USA', u'2310 Canoas Garden Ave San Jose, CA 95125', '37.2927316', '-121.8743087')
+~~~~added one event: Golden Gate Park~~~~~~~
+("Sam's Chowder Mobile", 44, '2015-05-10', 'lunch', '11:30:00', '15:30:00', 'California, USA', u'across from the Japanese Gardens', '36.778261', '-119.4179324')
+~~~~added one event: SFSU~~~~~~~
+("Sam's Chowder Mobile", 44, '2015-05-15', 'lunch', '11:00:00', '14:00:00', 'California, USA', u'Hensill Hall on SFSU campus ', '36.778261', '-119.4179324')
+----skip----
+Off the Grid Civic Center
+----skip----
+Off The Grid Daly City
+----skip----
+Off The Grid Foster City
+----skip----
+SoMa Square Apartments 
+~~~~added one event: 550 Moreland Apartments ~~~~~~~
+("Sam's Chowder Mobile", 44, '2015-05-14', 'dinner', '17:30:00', '20:30:00', '550 Moreland Way, Santa Clara, CA 95054, USA', u'550 Moreland Way, Santa Clara, CA 95054, USA', '37.3954098', '-121.9443231')
+----skip----
+***Private Event - Innovation Award Winner Clambake
+----skip----
+***Private Event - Dana Bday Party
+~~~~added one event: Sam's Parking Lot~~~~~~~
+("Sam's Chowder Mobile", 44, '2015-05-10', 'lunch', '12:00:00', '16:00:00', '4210 Cabrillo Highway North, Half Moon Bay, CA 94019, USA', u'4210 Cabrillo Hwy N, Half Moon Bay, CA 94019, USA', '37.5025026', '-122.4758614')
+~~~~added one event: Golden Gate Park~~~~~~~
+("Sam's Chowder Mobile", 44, '2015-05-16', 'lunch', '11:30:00', '16:00:00', 'California, USA', u'Golden Gate Park across from the Japanese Gardens', '36.778261', '-119.4179324')
+~~~~added one event: Golden Gate Park~~~~~~~
+("Sam's Chowder Mobile", 44, '2015-05-09', 'lunch', '11:30:00', '15:30:00', 'California, USA', u'Golden Gate Park across from the Japanese Gardens', '36.778261', '-119.4179324')
+----skip----
+***Private Event - Swirl Lunch
+~~~~added one event: Tank 18 Bottling Event~~~~~~~
+("Sam's Chowder Mobile", 44, '2015-05-16', 'lunch', '12:00:00', '15:00:00', 'California, USA', u'Tank18, 1345 Howard Street, San Francisco, CA 94103, United States', '36.778261', '-119.4179324')
+~~~~added one event: ***Pick up - Pacifica Teacher Appreciation~~~~~~~
+("Sam's Chowder Mobile", 44, '2015-05-11', 'lunch', '11:30:00', '13:30:00', 'California, USA', u'***Pick up - Pacifica Teacher Appreciation', '36.778261', '-119.4179324')
+----skip----
+***Private Event - Elance
+------------DONE: name: Sam's Chowder Mobile url: http://www.samschowdermobile.com/  total: 24 success: 12 skip:12 fail: 0 -------------------
+run //lamp/foodtrucksmap/foodtrucksmap/trucks//Sanguchon/get_schedules.bash
+------------START: name Sanguchon  url http://www.sanguchonsf.com/----------------
+----skip----
+Off the Grid Vallejo and Front St, San Francisco2015-05-04
+~~~~added one event: null~~~~~~~
+('Sanguchon', 43, '2015-05-04', 'lunch', '11:00:00', '14:00:00', '475 California Street, San Francisco, CA 94104, USA', '475 California Street, San Francisco', '37.792925', '-122.4023172')
+----skip----
+100 Spear street. @ Mission Street., San Francisco<p><b>11:00am - 2:00pm</b>,  OtG-UN Plaza&quot; 7th and 8th on Market St, San Francisco2015-05-05
+----skip----
+475 California Street, San Francisco<p><b>11:00am - 2:00pm</b>, 100 Spear street. @ Mission Street., San Francisco<p><b>5:00pm - 9:00pm</b>,  OtG - El Cerrito&quot; at Fairmount and San Pablo ave., El Cerrito2015-05-06
+~~~~added one event: null~~~~~~~
+('Sanguchon', 43, '2015-05-07', 'lunch', '11:00:00', '14:00:00', 'Mission Street, San Francisco, CA, USA', '100 Spear street. @ Mission Street., San Francisco', '37.7512066', '-122.4183524')
+----skip----
+null Moveable Feast: 951 Mariners Island Blvd., San Mateo2015-05-07
+----skip----
+100 Spear street. @ Mission Street., San Francisco<p><b>11:00am - 2:00pm</b>, 475 California Street, San Francisco<p><b>5:00pm - 9:00pm</b>,  OtG- Lake Merritt&quot; at Oakland Museum of California  @ OMCA, Oakland2015-05-08
+----skip----
+OtG-Alameda South Shore Center@ Park St & Franciscan Way, Alameda2015-05-09
+----skip----
+null OtG-Public Sales Ghirardelli Square, San Francisco2015-05-09
+----skip----
+OtG-Marin Marin Larkspur Country Mart, Marin2015-05-10
+------------DONE: name: Sanguchon url: http://www.sanguchonsf.com/  total: 10 success: 2 skip:8 fail: 0 -------------------
+run //lamp/foodtrucksmap/foodtrucksmap/trucks//Senor_Sisig/get_schedules.bash
+------------START: name Senor Sisig  url http://www.senorsisig.com/----------------
+----skip----
+Off The Grid "Alameda" 2310 S Shore Center, Alameda, CA 945012015-05-09
+~~~~added one event: Powell and Ellis~~~~~~~
+('Senor Sisig', 40, '2015-05-09', 'lunch', '11:00:00', '17:00:00', 'Powell Street & Ellis Street, San Francisco, CA 94102, USA', 'Powell St and Ellis St, San Francisco, CA 94102', '37.7855186', '-122.4078883')
+~~~~added one event: The Yard at Mission Rock~~~~~~~
+('Senor Sisig', 40, '2015-05-09', 'lunch', '11:00:00', '22:30:00', '3rd Street & Terry A Francois Boulevard, San Francisco, CA 94158, USA', '3rd Steet and Terry Francois Boulevard, San Francisco, California 94158', '37.776281', '-122.3900846')
+~~~~added one event: The Yard at Mission Rock~~~~~~~
+('Senor Sisig', 40, '2015-05-10', 'lunch', '11:00:00', '20:00:00', '3rd Street & Terry A Francois Boulevard, San Francisco, CA 94158, USA', '3rd Steet and Terry Francois Boulevard, San Francisco, California 94158', '37.776281', '-122.3900846')
+----skip----
+Off The Grid "Vallejo and Front" Vallejo St. and Front St., San Francisco, CA 941112015-05-11
+~~~~added one event: 300 Pine~~~~~~~
+('Senor Sisig', 40, '2015-05-11', 'lunch', '11:00:00', '14:00:00', '300 Pine Street, San Francisco, CA 94104, USA', '300 Pine, San Francisco, CA 94104', '37.792249', '-122.4012913')
+~~~~added one event: The Yard at Mission Rock~~~~~~~
+('Senor Sisig', 40, '2015-05-11', 'lunch', '11:00:00', '15:00:00', '3rd Street & Terry A Francois Boulevard, San Francisco, CA 94158, USA', '3rd Steet and Terry Francois Boulevard, San Francisco, California 94158', '37.776281', '-122.3900846')
+~~~~added one event: The Yard at Mission Rock~~~~~~~
+('Senor Sisig', 40, '2015-05-11', 'dinner', '16:00:00', '20:00:00', '3rd Street & Terry A Francois Boulevard, San Francisco, CA 94158, USA', '3rd Steet and Terry Francois Boulevard, San Francisco, California 94158', '37.776281', '-122.3900846')
+~~~~added one event: San Francisco State University (Hensil Hall)~~~~~~~
+('Senor Sisig', 40, '2015-05-12', 'lunch', '11:00:00', '14:30:00', 'Creative Arts, San Francisco State University, 1600 Holloway Avenue, San Francisco, CA 94132, USA', '1600 Holloway, San Francisco, CA 94132', '37.721513', '-122.4797394')
+~~~~added one event: 2nd and Minna~~~~~~~
+('Senor Sisig', 40, '2015-05-12', 'lunch', '11:00:00', '14:00:00', '2nd Street & Minna Street, San Francisco, CA 94105, USA', '2nd and Minna St, San Francisco, CA 94105', '37.7876012', '-122.3993312')
+~~~~added one event: UCSF Mission Hall~~~~~~~
+('Senor Sisig', 40, '2015-05-12', 'lunch', '11:00:00', '14:00:00', '550 16th Street, San Francisco, CA 94158, USA', '550 16th St., San Francisco, CA 94158', '37.7672262', '-122.3907482')
+~~~~added one event: The Yard at Mission Rock~~~~~~~
+('Senor Sisig', 40, '2015-05-12', 'lunch', '11:00:00', '15:00:00', '3rd Street & Terry A Francois Boulevard, San Francisco, CA 94158, USA', '3rd Steet and Terry Francois Boulevard, San Francisco, California 94158', '37.776281', '-122.3900846')
+~~~~added one event: The Yard at Mission Rock ~~~~~~~
+('Senor Sisig', 40, '2015-05-12', 'dinner', '16:00:00', '20:00:00', '3rd Street & Terry A Francois Boulevard, San Francisco, CA 94158, USA', '3rd Steet and Terry Francois Boulevard, San Francisco, California 94158', '37.776281', '-122.3900846')
+----skip----
+Off The Grid "Serramonte" 3 Serramonte Center, Daly City, CA 940152015-05-12
+!!!ERROR: fail to get all events verify_num 15 total 14!!!ERROR!!!
+------------DONE: name: Senor Sisig url: http://www.senorsisig.com/  total: 15 success: 11 skip:3 fail: 0 FAILED MATH_ERROR-------------------
+FAILED
+run //lamp/foodtrucksmap/foodtrucksmap/trucks//Slider_Shack/get_schedules.bash
+------------START: name Slider Shack  url http://www.slidershacksf.com/----------------
+!!!ERROR: fail to get calendar ID!!!ERROR!!!
+'NoneType' object has no attribute 'groupdict'
+------------DONE: name: Slider Shack url: http://www.slidershacksf.com/  total: 0 success: 0 skip:0 fail: 0 FAILED-------------------
+FAILED
+run //lamp/foodtrucksmap/foodtrucksmap/trucks//Soulnese/get_schedules.bash
+------------START: name Soulnese  url http://soulnese.com/index.php?option=com_content&view=article&id=111&Itemid=159----------------
+~~~~~~~calendarID:soulnese@gmail.com ~~~~~~~~~~
+~~~~~~skip: no event summary~~~~~~~
+{u'status': u'confirmed', u'kind': u'calendar#event', u'end': {u'timeZone': u'America/Los_Angeles', u'dateTime': u'2015-05-15T14:00:00-07:00'}, u'iCalUID': u'bqajjfb4111f0f18us48v2r9t4@google.com', u'updated': u'2015-04-09T03:29:38.900Z', u'visibility': u'private', u'originalStartTime': {u'timeZone': u'America/Los_Angeles', u'dateTime': u'2015-05-15T11:00:00-07:00'}, u'start': {u'timeZone': u'America/Los_Angeles', u'dateTime': u'2015-05-15T11:00:00-07:00'}, u'etag': u'"2857100357800000"', u'recurringEventId': u'bqajjfb4111f0f18us48v2r9t4', u'id': u'bqajjfb4111f0f18us48v2r9t4_20150515T180000Z'}
+~~~~~~skip: no event summary~~~~~~~
+{u'status': u'confirmed', u'kind': u'calendar#event', u'end': {u'dateTime': u'2015-05-09T15:00:00-07:00'}, u'iCalUID': u'bniclumde5lqlrhntiok1ajsos@google.com', u'updated': u'2015-04-23T03:41:34.870Z', u'visibility': u'private', u'start': {u'dateTime': u'2015-05-09T10:30:00-07:00'}, u'etag': u'"2859520989740000"', u'id': u'bniclumde5lqlrhntiok1ajsos'}
+~~~~added one event: VSSA Armed Forces Day~~~~~~~
+('Soulnese', 29, '2015-05-16', 'lunch', '08:30:00', '14:30:00', 'Lake Cunningham Regional Skate Park, 2305 South White Road, San Jose, CA 95148, USA', u'Lake Cunningham Regional Skate Park, 2305 South White Road, San Jose, CA 95148, United States', '37.3361409', '-121.8034106')
+~~~~added one event: Keypoint Lunch~~~~~~~
+('Soulnese', 29, '2015-05-13', 'lunch', '11:30:00', '13:30:00', '2805 Bowers Avenue, Santa Clara, CA 95051, USA', u'2805 Bowers Ave, Santa Clara, CA 95051, USA', '37.372174', '-121.976382')
+~~~~added one event: Brisbane Lunch~~~~~~~
+('Soulnese', 29, '2015-05-12', 'lunch', '11:30:00', '13:30:00', 'Dining, San Bruno, CA 94066, USA', u'Brisbane Lunch', '37.630524', '-122.4181121')
+------------DONE: name: Soulnese url: http://soulnese.com/index.php?option=com_content&view=article&id=111&Itemid=159  total: 5 success: 3 skip:2 fail: 0 -------------------
+run //lamp/foodtrucksmap/foodtrucksmap/trucks//The_Boneyard/get_schedules.bash
+------------START: name The Boneyard  url None----------------
+~~~~~~~calendarID:boneyardtruck@gmail.com ~~~~~~~~~~
+!!!ERROR: unexpected error!!!ERROR!!!
+e: 'dateTime'
+event {u'status': u'confirmed', u'kind': u'calendar#event', u'end': {u'date': u'2015-05-10'}, u'created': u'2014-03-04T14:40:29.000Z', u'iCalUID': u'C72C31C0-F887-41A5-8CD4-657654892C94', u'reminders': {u'useDefault': False}, u'htmlLink': u'https://www.google.com/calendar/event?eid=Xzhjcmo0Z3BqNjUxajBiYTY3MHMzZWI5azY1MGphYjlvOGQyMzhiOW02a3JqY2Q5azcwc2o0Z3BwNmcgYm9uZXlhcmR0cnVja0Bt', u'sequence': 2, u'updated': u'2014-03-04T14:40:35.687Z', u'summary': u'White Party', u'start': {u'date': u'2015-05-09'}, u'etag': u'"2787888071374000"', u'transparency': u'transparent', u'organizer': {u'self': True, u'displayName': u'Boneyard Truck', u'email': u'boneyardtruck@gmail.com'}, u'creator': {u'self': True, u'displayName': u'Boneyard Truck', u'email': u'boneyardtruck@gmail.com'}, u'id': u'_8crj4gpj651j0ba670s3eb9k650jab9o8d238b9m6krjcd9k70sj4gpp6g'}
+start_date None 
+end_date: None
+date:None
+start_time: None
+end_time: None
+address: None
+meal: None
+----skip----
+Off The Grid Fort Mason
+----skip----
+OTG: Burlingame
+----skip----
+OTG: Menlo Park
+----skip----
+OTG 5th and Minna
+----skip----
+Private Event - Urreaga
+----skip----
+OTG: Twilight
+------------DONE: name: The Boneyard url: None  total: 7 success: 0 skip:6 fail: 1 FAILED-------------------
+FAILED
+run //lamp/foodtrucksmap/foodtrucksmap/trucks//The_Chairman/get_schedules.bash
+------------START: name The Chairman  url http://www.thechairmantruck.com/locate----------------
+----skip----
+OfftheGrid:Marin2015-05-10
+----skip----
+OffTheGrid:BelmontCaltrainStation2015-05-04
+----skip----
+TruckStop-SF2015-05-05
+----skip----
+OfftheGrid:Cupertino2015-05-05
+----skip----
+OfftheGrid:5M-SF2015-05-06
+----skip----
+OfftheGrid:ElCerrito2015-05-06
+----skip----
+MoveableFeast:FashionIsland-SanMateo2015-05-07
+----skip----
+GFoodLounge-SF2015-05-08
+----skip----
+OfftheGrid:FortMasonCenter-SF2015-05-08
+----skip----
+OffTheGrid:LakeMerritt@OMCA-Oakland2015-05-08
+~~~~added one event:                                     901 Gateway-South San Francisco                                  ~~~~~~~
+('The Chairman', 20, '2015-05-04', 'lunch', '11:00:00', '13:30:00', '901 Gateway Boulevard, South San Francisco, CA 94080, USA', '901 Gateway Blvd, South San Francisco 94080', '37.6614459', '-122.3973076')
+~~~~added one event:                                     Bishop Ranch 3 - San Ramon                                  ~~~~~~~
+('The Chairman', 20, '2015-05-05', 'lunch', '11:00:00', '14:00:00', '2633 Camino Ramon, San Ramon, CA 94583, USA', '2633 Camino Ramon, San Ramon, CA', '37.766256', '-121.958127')
+~~~~added one event:                                     Hiller Aviation Museum - San Carlos                                  ~~~~~~~
+('The Chairman', 20, '2015-05-06', 'lunch', '11:00:00', '14:00:00', 'San Carlos Airport, 601 Skyway Road, San Carlos, CA 94070, USA', '601 Skyway, San Carlos, CA 94070', '37.5127509', '-122.2530054')
+~~~~added one event:                                     Diamond Dining - SF                                  ~~~~~~~
+('The Chairman', 20, '2015-05-07', 'lunch', '11:00:00', '14:00:00', '888 Brannan Street, San Francisco, CA 94103, USA', '888 Brannan Street, San Francisco, CA', '37.7718827', '-122.4052237')
+~~~~added one event:                                     UCSF Mission Hall                                   ~~~~~~~
+('The Chairman', 20, '2015-05-08', 'lunch', '11:00:00', '14:00:00', '550 16th Street, San Francisco, CA 94158, USA', '550 16th St, San Francisco', '37.7672262', '-122.3907482')
+~~~~added one event:                                     College of San Mateo Farmer's Market                                  ~~~~~~~
+('The Chairman', 20, '2015-05-09', 'lunch', '9:30:00', '13:00:00', 'Csm Drive, San Mateo, CA 94402, USA', 'College of San Mateo- Perimeter Rd. and CSM Dr., San Mateo', '37.5305766', '-122.3382445')
+------------DONE: name: The Chairman url: http://www.thechairmantruck.com/locate  total: 16 success: 6 skip:10 fail: 0 -------------------
+run //lamp/foodtrucksmap/foodtrucksmap/trucks//The_Oaxacan_Kitchen/get_schedules.bash
+------------START: name The Oaxacan Kitchen  url http://www.oaxacankitchenmobile.com/----------------
+~~~~added one event: Tesla Motors Factory~~~~~~~
+('The Oaxacan Kitchen', 17, '2015-05-04', 'lunch', '10:30:00', '14:00:00', '45500 Fremont Boulevard, Fremont, CA 94538, USA', '45500 Fremont Blvd Fremont', '37.4926672', '-121.9440909')
+----skip----
+2015-05-05 <span class="time">11 AM to 2 PM</span><br><span class="location"><a href="http://offthegridsf.com">Off The Grid</a><br><a href="https://www.google.com/maps/place/Y2E2/@37.428204,-122.175624,17z/data=!3m1!4b1!4m2!3m1!1s0x808fa4d52645433d:0xecc1aa0224949075">Y2E2, S. Service Rd.<br>Stanford University</a></span><br><span class="menu"><a href="../Standard Truck Menu 01-16-2015.pdf">Menu</a></span></td>                                                                wangxuan
+~~~~added one event: Stanford Health Care~~~~~~~
+('The Oaxacan Kitchen', 17, '2015-05-06', 'lunch', '11:00:00', '13:30:00', '3375 Hillview Avenue, Palo Alto, CA 94304, USA', '3375 Hillview Ave Palo Alto', '37.4051852', '-122.1449785')
+!!!ERROR: sql fail (maybe)!!!ERROR!!!
+e: start_time is later than end_time
+The Oaxacan Kitchen
+date:2015-05-07
+start_time: 23:30:00
+end_time: 13:30:00
+address: 1900 University Ave East Palo Alto
+meal: dinner
+----skip----
+2015-05-08 <span class="location">Private Event</span><a href="http://www.oaxacankitchenmobile.com/catering.html"><br>Have an Event<br>Contact Us!</span>                                                                wangxuan
+~~~~added one event: Community Yard Sale~~~~~~~
+('The Oaxacan Kitchen', 17, '2015-05-09', 'lunch', '8:00:00', '14:00:00', '201 South Rengstorff Avenue, Mountain View, CA 94040, USA', '201 S Rengstorff Ave Mountain View', '37.4010264', '-122.0977455')
+----skip----
+2015-05-04 <span class="location">Private Event</span><a href="http://www.oaxacankitchenmobile.com/catering.html"><br>Have an Event<br>Contact Us!</span><td>wangxuan
+----skip----
+2015-05-05 <span class="time">5 PM to 9 PM</span><br><span class="location"><a href="http://offthegridsf.com/markets#27-burlingame">OTG Burlingame</a><br><a href="https://maps.google.com/?q=1190+California+Drive+%2C+Burlingame">1190 California Drive<br>Burlingame</a></span><br>  <span class="menu"><a href="../Standard Truck Menu 01-16-2015.pdf">Menu</a></span></td><td>wangxuan
+----skip----
+2015-05-06 <span class="location">Private Event</span><a href="http://www.oaxacankitchenmobile.com/catering.html"><br>Have an Event<br>Contact Us!</span>                                                                wangxuan
+~~~~added one event: Macy's Cooking Demo~~~~~~~
+('The Oaxacan Kitchen', 17, '2015-05-07', 'dinner', '18:00:00', '19:00:00', '3051 Stevens Creek Boulevard, Santa Clara, CA 95050, USA', '3051 Stevens Creek Blvd Santa Clara', '37.3245048', '-121.9484975')
+----skip----
+2015-05-08 <span class="location">Private Event</span><a href="http://www.oaxacankitchenmobile.com/catering.html"><br>Have an Event<br>Contact Us!</span>                                                                wangxuan
+----skip----
+2015-05-09 <span class="time">No Cena</span><br>wangxuan
+~~~~added one event: Tesla Motors Factory~~~~~~~
+('The Oaxacan Kitchen', 17, '2015-05-11', 'lunch', '10:30:00', '14:00:00', '45500 Fremont Boulevard, Fremont, CA 94538, USA', '45500 Fremont Blvd Fremont', '37.4926672', '-121.9440909')
+~~~~added one event: UCSF Children's Hospital~~~~~~~
+('The Oaxacan Kitchen', 17, '2015-05-12', 'lunch', '11:00:00', '14:00:00', '747 52nd Street, Oakland, CA 94609, USA', '747 52nd St Oakland', '37.8368589', '-122.267059')
+~~~~added one event: Tesla Motors HQ~~~~~~~
+('The Oaxacan Kitchen', 17, '2015-05-13', 'lunch', '11:00:00', '13:30:00', '3500 Deer Creek Road, Palo Alto, CA 94304, USA', '3500 Deer Creek Rd Palo Alto', '37.394287', '-122.150604')
+~~~~added one event: Juniper Networks<br>~~~~~~~
+('The Oaxacan Kitchen', 17, '2015-05-14', 'lunch', '11:00:00', '14:00:00', 'California, USA', 'Juniper Networks<br>', '36.778261', '-119.4179324')
+~~~~added one event: Verizon~~~~~~~
+('The Oaxacan Kitchen', 17, '2015-05-15', 'lunch', '11:00:00', '13:30:00', '375 West Trimble Road, San Jose, CA 95131, USA', '375 W Trimble Rd San Jose ', '37.3844772', '-121.9327289')
+~~~~added one event: JUS @ the Palo Alto Farmers' Market~~~~~~~
+('The Oaxacan Kitchen', 17, '2015-05-16', 'lunch', '8:00:00', '12:00:00', 'California, USA', "JUS @ the Palo Alto Farmers' Market", '36.778261', '-119.4179324')
+----skip----
+2015-05-11 <span class="time">5 PM to 9 PM</span><br><span class="location"><a href="http://offthegridsf.com/markets#51-otg-palo-alto-crowne-plaza">OTG Crowne Plaza</a><br><a href="https://www.google.com/maps/place/4290+El+Camino+Real,+Palo+Alto,+CA+94306/@37.406137,-122.1215351,17z/data=!3m1!4b1!4m2!3m1!1s0x808fba78514bd71b:0xed8d6bb83613ee19?hl=en">4290 El Camino Real<br>Palo Alto</a></span><br>  <span class="menu"><a href="../Standard Truck Menu 01-16-2015.pdf">Menu</a></span></td>                                                                wangxuan
+----skip----
+2015-05-12 <span class="time">5 PM to 9 PM</span><br><span class="location"><a href="https://www.facebook.com/events/1495365537350549/">OTG Whole Foods</a></span><br><a href="https://www.google.com/maps/place/20955+Stevens+Creek+Blvd/@37.3236316,-122.0397419,17z/data=!3m1!4b1!4m2!3m1!1s0x808fb44d6f23c299:0x1573db16aa6b3d6e?hl=en">20955 Stevens Creek Blvd <br>Cupertino</a><br>  <span class="menu"><a href="../Standard Truck Menu 01-16-2015.pdf">Menu</a></span></td>                                                                wangxuan
+----skip----
+2015-05-13 <span class="location">Private Event</span><a href="http://www.oaxacankitchenmobile.com/catering.html"><br>Have an Event<br>Contact Us!</span>wangxuan
+~~~~added one event: Cupertino Middle School~~~~~~~
+('The Oaxacan Kitchen', 17, '2015-05-14', 'dinner', '17:30:00', '20:00:00', '1650 South Bernardo Avenue, Sunnyvale, CA 94087, USA', '1650 Bernardo Ave Sunnyvale', '37.3394554', '-122.0590681')
+~~~~added one event: Escondidio International Fair~~~~~~~
+('The Oaxacan Kitchen', 17, '2015-05-15', 'dinner', '17:00:00', '20:00:00', 'California, USA', 'Escondidio International Fair', '36.778261', '-119.4179324')
+----skip----
+2015-05-16 <span class="location">Private Event</span><a href="http://www.oaxacankitchenmobile.com/catering.html"><br>Have an Event<br>Contact Us!</span></td>wangxuan
+------------DONE: name: The Oaxacan Kitchen url: http://www.oaxacankitchenmobile.com/  total: 24 success: 12 skip:11 fail: 1 FAILED-------------------
+FAILED
+run //lamp/foodtrucksmap/foodtrucksmap/trucks//The_Rib_Whip/get_schedules.bash
+------------START: name The Rib Whip  url http://cedarhillsf.com/ribwhip/----------------
+~~~~~~~calendarID:theribwhip@gmail.com ~~~~~~~~~~
+----skip----
+SOMA Streatfood Park
+----skip----
+OTG Emeryville
+~~~~~~skip: no event summary~~~~~~~
+{u'status': u'confirmed', u'kind': u'calendar#event', u'end': {u'dateTime': u'2015-05-14T12:30:00-07:00'}, u'iCalUID': u'8h8cd9i3afc9snad6kecb9717g@google.com', u'updated': u'2015-04-22T03:35:34.839Z', u'visibility': u'private', u'start': {u'dateTime': u'2015-05-14T12:05:00-07:00'}, u'etag': u'"2859347469678000"', u'id': u'8h8cd9i3afc9snad6kecb9717g'}
+~~~~~~skip: no event summary~~~~~~~
+{u'status': u'confirmed', u'kind': u'calendar#event', u'end': {u'dateTime': u'2015-05-11T11:45:00-07:00'}, u'iCalUID': u'qt66ldvn1f02ssrmmchgl34rb0@google.com', u'updated': u'2015-04-22T03:37:04.877Z', u'visibility': u'private', u'start': {u'dateTime': u'2015-05-11T11:35:00-07:00'}, u'etag': u'"2859347649754000"', u'id': u'qt66ldvn1f02ssrmmchgl34rb0'}
+----skip----
+Moveable Feast Cupertino
+----skip----
+Private Event 
+----skip----
+OTG Upper Haight
+----skip----
+RW1 @ Truck Stop, 450 Mission
+------------DONE: name: The Rib Whip url: http://cedarhillsf.com/ribwhip/  total: 8 success: 0 skip:8 fail: 0 -------------------
+run //lamp/foodtrucksmap/foodtrucksmap/trucks//Tres_Truck/get_schedules.bash
+------------START: name Tres Truck  url http://tressf.com/events/----------------
+~~~~~~~calendarID:rocksnosalt.com_m48ecrg2gn509rlmjuluu9jcks@group.calendar.google.com ~~~~~~~~~~
+------------DONE: name: Tres Truck url: http://tressf.com/events/  total: 0 success: 0 skip:0 fail: 0 FAILED-------------------
+FAILED
+run //lamp/foodtrucksmap/foodtrucksmap/trucks//Twister_Truck/get_schedules.bash
+------------START: name Twister Truck  url http://www.twistertruck.com/----------------
+!!!ERROR: fail to open the url!!!ERROR!!!
+<urlopen error [Errno -2] Name or service not known>
+------------DONE: name: Twister Truck url: http://www.twistertruck.com/  total: 0 success: 0 skip:0 fail: 0 FAILED-------------------
+FAILED
+run //lamp/foodtrucksmap/foodtrucksmap/trucks//We_Sushi/get_schedules.bash
+------------START: name We Sushi  url http://www.wesushi.net/schedule.html----------------
+----skip----
+OFF THE GRID: HAYWARD2015-04-27
+----skip----
+OFF THE GRID: BELMONT2015-04-27
+!!!ERROR: sql fail (maybe)!!!ERROR!!!
+e: (1062, "Duplicate entry '2015-04-28-11:00:00-14:00:00-SF GIFTCENTER and JEWELRY MART-7' for key 'PRIMARY'")
+We Sushi
+date:2015-04-28
+start_time: 11:00:00
+end_time: 14:00:00
+address: SF GIFTCENTER and JEWELRY MART
+meal: lunch
+good error!
+----skip----
+MOVEABLE FEAST: PALO ALTO SQ2015-04-28
+----skip----
+OFF THE GRID: CUPERTINO2015-04-28
+----skip----
+OFF THE GRID: EMERYVILLE2015-04-29
+!!!ERROR: sql fail (maybe)!!!ERROR!!!
+e: (1062, "Duplicate entry '2015-04-29-11:00:00-14:00:00-SFSU WEST CAMPUS GREEN-7' for key 'PRIMARY'")
+We Sushi
+date:2015-04-29
+start_time: 11:00:00
+end_time: 14:00:00
+address: SFSU WEST CAMPUS GREEN
+meal: lunch
+good error!
+----skip----
+OFF THE GRID: FOSTER CITY2015-04-29
+~~~~added one event: NULL~~~~~~~
+('We Sushi', 7, '2015-05-02', 'lunch', '11:00:00', '14:00:00', 'California, USA', 'MAY FETE FAIR', '36.778261', '-119.4179324')
+----skip----
+OFF THE GRID: EVERGREEN VILLAGE2015-05-02
+----skip----
+OFF THE GRID: PALO ALTO CROWNE PLAZA2015-05-04
+----skip----
+OFF THE GRID: UN PLAZA2015-05-05
+~~~~added one event: NULL~~~~~~~
+('We Sushi', 7, '2015-05-05', 'lunch', '11:00:00', '14:00:00', '2100 Powell Street, Emeryville, CA 94608, USA', '2100 POWELL, EMERYVILLE', '37.839293', '-122.298217')
+----skip----
+OFF THE GRID: VALLEJO & FRONT2015-05-06
+----skip----
+OFF THE GRID: SUNNYVALE2015-05-07
+----skip----
+OFF THE GRID: EMERYVILLE PUBLIC MARKET2015-05-09
+------------DONE: name: We Sushi url: http://www.wesushi.net/schedule.html  total: 16 success: 4 skip:12 fail: 0 -------------------

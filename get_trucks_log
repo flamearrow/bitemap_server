@@ -1,0 +1,9 @@
+get_trucks_crawler.py:63: Warning: Data truncated for column 'category' at row 1
+  c.execute(sql, args)
+get_trucks_crawler.py:70: Warning: Data truncated for column 'category' at row 1
+  c.execute(sql, args)
+get_trucks_crawler.py:63: Warning: Data truncated for column 'category detail' at row 1
+  c.execute(sql, args)
+~~~~~~~~~~DONE~~~~~~~~~~
+total: 136
+failed : 0
