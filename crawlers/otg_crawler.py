@@ -2,10 +2,11 @@ import json
 import re
 import requests
 import xml.etree.ElementTree as EleT
-import lib
 import MySQLdb
 import MySQLdb.cursors
-
+import sys
+sys.path.append("../")
+import lib
 
 """
 Crawl off the grid website for their weekly schedules
@@ -118,6 +119,7 @@ def parse_all():
     ret = []
     for key in markets:
         print "processing key " + key
+	print "processing market " + markets[key]["name"]
         json_result = parse_request(REQ_BASE % key, markets[key]['latitude'], markets[key]['longitude'])
         ret.extend(json_result)
     return ret
@@ -128,7 +130,7 @@ def parse_all_to_file():
     crawl and write result to out.json
     """
     final_result = parse_all()
-
+    print str(len(final_result)) + " results" 
     with open('out.json', 'w') as json_out:
         json.dump(final_result, json_out, indent=4, separators=(',', ':'))
     print "result written to out.json"
@@ -147,21 +149,19 @@ def parse_all_to_file():
 
 
 def parse_all_to_db():
-
-
-    # final_result = parse_all()
-    with open('out_small.json', 'r') as json_in:
-        final_result = json.load(json_in)
+    final_result = parse_all()
+    #with open('out_small.json', 'r') as json_in:
+    #    final_result = json.load(json_in)
 
     # initialize db
     db = MySQLdb.connect(host="localhost",user="ft",passwd="",db="foodtrucks", cursorclass=MySQLdb.cursors.DictCursor, sql_mode="STRICT_ALL_TABLES")
     db.autocommit(True)
 
     c = db.cursor()
-
+	
+    print str(len(final_result)) + " results"
     for event in final_result:
         name = event['truck_name']
-        print "------------------"
         # strip out bracket and number at the end of truck name
         if name[-1] == ')':
             name = name[0:-4]
@@ -175,30 +175,19 @@ def parse_all_to_db():
         lng = event['longitude']
         event_name = 'off the grid'
         ret_name = []
-        # if not lib.check_truck_name(name, ret_name):
-        #     print "ERROR: Unknown truck name %s" % name
-        #     continue
-        # name = ret_name[0]
         start_time = start[:2] + ":" + start[2:] + ":00"
         end_time = end[:2] + ":" + end[2:] + ":00"
         if start_time > "15:00:00":
             meal = "dinner"
         else:
             meal = "lunch"
-        # sql_args = (name, truck_id, date, meal, start_time, end_time,
-        #         address_info['formatted_address'], address,
-        #         address_info['location']['lat'], address_info['location']['lng'])
 
         truck_id = lib.truck_name_to_id(name)
         sql_args = (name, truck_id, date, meal, start_time, end_time, address, address, lat, lng)
-        print "args: " + sql_args
-        # c.execute(lib.sql_fmt, sql_args)
-
-        # ret_ok = lib.insert_into_database(
-        #     name, date, meal, start_time, end_time, address, event_name)
-        # if ret_ok:
-        #     print "added a new schedule"
-        # else:
-        #     print "schedule add failure"
+        if c.execute(lib.sql_fmt, sql_args):
+		print "successfully added: " + name
+	else:
+		print "adding " + name + " fails!"
 
 parse_all_to_db()
+#parse_all_to_file()
