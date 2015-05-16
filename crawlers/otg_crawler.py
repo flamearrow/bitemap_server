@@ -2,6 +2,10 @@ import json
 import re
 import requests
 import xml.etree.ElementTree as EleT
+import lib
+import MySQLdb
+import MySQLdb.cursors
+
 
 """
 Crawl off the grid website for their weekly schedules
@@ -129,5 +133,72 @@ def parse_all_to_file():
         json.dump(final_result, json_out, indent=4, separators=(',', ':'))
     print "result written to out.json"
 
+'''
+{
+    "end":"1500",
+    "latitude":"37.692692",
+    "longitude":"-121.926270",
+    "start":"1100",
+    "address":" 5532 Springdale Ave, Plesanton",
+    "date":"0517",
+    "truck_name":"Southern Comfort Kitchen"
+}
+'''
 
-parse_all_to_file()
+
+def parse_all_to_db():
+
+
+    # final_result = parse_all()
+    with open('out_small.json', 'r') as json_in:
+        final_result = json.load(json_in)
+
+    # initialize db
+    db = MySQLdb.connect(host="localhost",user="ft",passwd="",db="foodtrucks", cursorclass=MySQLdb.cursors.DictCursor, sql_mode="STRICT_ALL_TABLES")
+    db.autocommit(True)
+
+    c = db.cursor()
+
+    for event in final_result:
+        name = event['truck_name']
+        print "------------------"
+        # strip out bracket and number at the end of truck name
+        if name[-1] == ')':
+            name = name[0:-4]
+        print "processing... " + name
+        start = event['start']
+        end = event['end']
+        address = event['address']
+        date = event['date']
+        date = '2015-' + date[:2] + '-' + date[2:]
+        lat = event['latitude']
+        lng = event['longitude']
+        event_name = 'off the grid'
+        ret_name = []
+        # if not lib.check_truck_name(name, ret_name):
+        #     print "ERROR: Unknown truck name %s" % name
+        #     continue
+        # name = ret_name[0]
+        start_time = start[:2] + ":" + start[2:] + ":00"
+        end_time = end[:2] + ":" + end[2:] + ":00"
+        if start_time > "15:00:00":
+            meal = "dinner"
+        else:
+            meal = "lunch"
+        # sql_args = (name, truck_id, date, meal, start_time, end_time,
+        #         address_info['formatted_address'], address,
+        #         address_info['location']['lat'], address_info['location']['lng'])
+
+        truck_id = lib.truck_name_to_id(name)
+        sql_args = (name, truck_id, date, meal, start_time, end_time, address, address, lat, lng)
+        print "args: " + sql_args
+        # c.execute(lib.sql_fmt, sql_args)
+
+        # ret_ok = lib.insert_into_database(
+        #     name, date, meal, start_time, end_time, address, event_name)
+        # if ret_ok:
+        #     print "added a new schedule"
+        # else:
+        #     print "schedule add failure"
+
+parse_all_to_db()

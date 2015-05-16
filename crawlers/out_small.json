@@ -1,0 +1,38 @@
+[
+    {
+        "end":"0900",
+        "latitude":"37.947018",
+        "longitude":"-122.062431",
+        "start":"1700",
+        "address":"100 Gregory Lane, Pleasant Hill",
+        "date":"0520",
+        "truck_name":"Curry Up Now (1)"
+    },
+    {
+        "end":"0900",
+        "latitude":"37.947018",
+        "longitude":"-122.062431",
+        "start":"1700",
+        "address":"100 Gregory Lane, Pleasant Hill",
+        "date":"0520",
+        "truck_name":"KoJa Kitchen"
+    },
+    {
+        "end":"0900",
+        "latitude":"37.947018",
+        "longitude":"-122.062431",
+        "start":"1700",
+        "address":"100 Gregory Lane, Pleasant Hill",
+        "date":"0520",
+        "truck_name":"An the Go (1)"
+    },
+    {
+        "end":"0900",
+        "latitude":"37.947018",
+        "longitude":"-122.062431",
+        "start":"1700",
+        "address":"100 Gregory Lane, Pleasant Hill",
+        "date":"0520",
+        "truck_name":"Go Streatery"
+    }
+]
