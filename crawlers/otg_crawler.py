@@ -29,6 +29,7 @@ STR_MAP = {
         '#039;': '\''
 }
 
+
 def get_json():
     """
     stupidly parse the source and encode json from http://offthegridsf.com/markets
@@ -52,11 +53,9 @@ def parse_request(req, lat, lng):
         return name
 
     def build_time(time_int):
-        if time_int < 8:
+        if time_int < 11:
             time_int = int(time_int) + 12
             return str(time_int) + "00"
-        elif time_int < 10:
-            return "0" + str(time_int) + "00"
         else:
             return str(time_int) + "00"
 
@@ -119,7 +118,7 @@ def parse_all():
     ret = []
     for key in markets:
         print "processing key " + key
-	print "processing market " + markets[key]["name"]
+        print "processing market " + markets[key]["name"]
         json_result = parse_request(REQ_BASE % key, markets[key]['latitude'], markets[key]['longitude'])
         ret.extend(json_result)
     return ret
@@ -158,7 +157,6 @@ def parse_all_to_db():
     db.autocommit(True)
 
     c = db.cursor()
-	
     print str(len(final_result)) + " results"
     for event in final_result:
         name = event['truck_name']
@@ -185,9 +183,9 @@ def parse_all_to_db():
         truck_id = lib.truck_name_to_id(name)
         sql_args = (name, truck_id, date, meal, start_time, end_time, address, address, lat, lng)
         if c.execute(lib.sql_fmt, sql_args):
-		print "successfully added: " + name
-	else:
-		print "adding " + name + " fails!"
+            print "successfully added: " + name
+        else:
+            print "adding " + name + " fails!"
 
 parse_all_to_db()
-#parse_all_to_file()
+# parse_all_to_file()

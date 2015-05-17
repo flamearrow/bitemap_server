@@ -1,6 +1,69 @@
 [
     {
-        "end":"0900",
+        "end":"2100",
+        "latitude":"37.415237",
+        "longitude":"-122.077637",
+        "start":"1700",
+        "address":"1401 North Shoreline Boulevard , Mountain View",
+        "date":"0522",
+        "truck_name":"An the Go (1)"
+    },
+    {
+        "end":"2100",
+        "latitude":"37.415237",
+        "longitude":"-122.077637",
+        "start":"1700",
+        "address":"1401 North Shoreline Boulevard , Mountain View",
+        "date":"0522",
+        "truck_name":"Cheese Gone Wild"
+    },
+    {
+        "end":"2100",
+        "latitude":"37.415237",
+        "longitude":"-122.077637",
+        "start":"1700",
+        "address":"1401 North Shoreline Boulevard , Mountain View",
+        "date":"0522",
+        "truck_name":"SAJJ"
+    },
+    {
+        "end":"2100",
+        "latitude":"37.415237",
+        "longitude":"-122.077637",
+        "start":"1700",
+        "address":"1401 North Shoreline Boulevard , Mountain View",
+        "date":"0522",
+        "truck_name":"J Shack"
+    },
+    {
+        "end":"2100",
+        "latitude":"37.415237",
+        "longitude":"-122.077637",
+        "start":"1700",
+        "address":"1401 North Shoreline Boulevard , Mountain View",
+        "date":"0522",
+        "truck_name":"Seoulful Korean Fried Chicken"
+    },
+    {
+        "end":"2100",
+        "latitude":"37.415237",
+        "longitude":"-122.077637",
+        "start":"1700",
+        "address":"1401 North Shoreline Boulevard , Mountain View",
+        "date":"0522",
+        "truck_name":"Swifty Sweets"
+    },
+    {
+        "end":"2100",
+        "latitude":"37.415237",
+        "longitude":"-122.077637",
+        "start":"1700",
+        "address":"1401 North Shoreline Boulevard , Mountain View",
+        "date":"0522",
+        "truck_name":"Judie's Tacos Locos"
+    },
+    {
+        "end":"2100",
         "latitude":"37.947018",
         "longitude":"-122.062431",
         "start":"1700",
@@ -9,7 +72,7 @@
         "truck_name":"Curry Up Now (1)"
     },
     {
-        "end":"0900",
+        "end":"2100",
         "latitude":"37.947018",
         "longitude":"-122.062431",
         "start":"1700",
@@ -18,7 +81,7 @@
         "truck_name":"KoJa Kitchen"
     },
     {
-        "end":"0900",
+        "end":"2100",
         "latitude":"37.947018",
         "longitude":"-122.062431",
         "start":"1700",
@@ -27,7 +90,7 @@
         "truck_name":"An the Go (1)"
     },
     {
-        "end":"0900",
+        "end":"2100",
         "latitude":"37.947018",
         "longitude":"-122.062431",
         "start":"1700",
@@ -36,7 +99,7 @@
         "truck_name":"Go Streatery"
     },
     {
-        "end":"0900",
+        "end":"2100",
         "latitude":"37.947018",
         "longitude":"-122.062431",
         "start":"1700",
@@ -45,7 +108,7 @@
         "truck_name":"Street Dog Truck"
     },
     {
-        "end":"0900",
+        "end":"2100",
         "latitude":"37.947018",
         "longitude":"-122.062431",
         "start":"1700",
@@ -54,7 +117,7 @@
         "truck_name":"El Porteno"
     },
     {
-        "end":"0900",
+        "end":"2100",
         "latitude":"37.947018",
         "longitude":"-122.062431",
         "start":"1700",
@@ -63,7 +126,7 @@
         "truck_name":"Frozen Kuhsterd"
     },
     {
-        "end":"0900",
+        "end":"2100",
         "latitude":"37.947018",
         "longitude":"-122.062431",
         "start":"1700",
@@ -72,7 +135,7 @@
         "truck_name":"Lucky 13"
     },
     {
-        "end":"0900",
+        "end":"2100",
         "latitude":"37.947018",
         "longitude":"-122.062431",
         "start":"1700",
@@ -81,7 +144,7 @@
         "truck_name":"Kenny's Heart and Soul"
     },
     {
-        "end":"0900",
+        "end":"2100",
         "latitude":"37.947018",
         "longitude":"-122.062431",
         "start":"1700",
@@ -90,7 +153,7 @@
         "truck_name":"Slider Truck"
     },
     {
-        "end":"0900",
+        "end":"2100",
         "latitude":"37.947018",
         "longitude":"-122.062431",
         "start":"1700",
@@ -99,61 +162,7 @@
         "truck_name":"Ceviche amp; Co."
     },
     {
-        "end":"1500",
-        "latitude":"37.314430",
-        "longitude":"-121.773308",
-        "start":"1100",
-        "address":"4075 Evergreen Village Square, San Jose",
-        "date":"0516",
-        "truck_name":"We Sushi"
-    },
-    {
-        "end":"1500",
-        "latitude":"37.314430",
-        "longitude":"-121.773308",
-        "start":"1100",
-        "address":"4075 Evergreen Village Square, San Jose",
-        "date":"0516",
-        "truck_name":"Grilled Cheese Bandits"
-    },
-    {
-        "end":"1500",
-        "latitude":"37.314430",
-        "longitude":"-121.773308",
-        "start":"1100",
-        "address":"4075 Evergreen Village Square, San Jose",
-        "date":"0516",
-        "truck_name":"The Waffle Roost"
-    },
-    {
-        "end":"1500",
-        "latitude":"37.314430",
-        "longitude":"-121.773308",
-        "start":"1100",
-        "address":"4075 Evergreen Village Square, San Jose",
-        "date":"0516",
-        "truck_name":"Los Tolucas"
-    },
-    {
-        "end":"1500",
-        "latitude":"37.314430",
-        "longitude":"-121.773308",
-        "start":"1100",
-        "address":"4075 Evergreen Village Square, San Jose",
-        "date":"0516",
-        "truck_name":"Hela Gela"
-    },
-    {
-        "end":"1500",
-        "latitude":"37.314430",
-        "longitude":"-121.773308",
-        "start":"1100",
-        "address":"4075 Evergreen Village Square, San Jose",
-        "date":"0516",
-        "truck_name":"Brother Baby's BBQ"
-    },
-    {
-        "end":"0900",
+        "end":"2100",
         "latitude":"37.898960",
         "longitude":"-122.301880",
         "start":"1700",
@@ -162,7 +171,7 @@
         "truck_name":"The Chairman (1)"
     },
     {
-        "end":"0900",
+        "end":"2100",
         "latitude":"37.898960",
         "longitude":"-122.301880",
         "start":"1700",
@@ -171,7 +180,7 @@
         "truck_name":"The Creme Brulee Cart"
     },
     {
-        "end":"0900",
+        "end":"2100",
         "latitude":"37.898960",
         "longitude":"-122.301880",
         "start":"1700",
@@ -180,7 +189,7 @@
         "truck_name":"Cupkates"
     },
     {
-        "end":"0900",
+        "end":"2100",
         "latitude":"37.898960",
         "longitude":"-122.301880",
         "start":"1700",
@@ -189,7 +198,7 @@
         "truck_name":"Sanguchon (1)"
     },
     {
-        "end":"0900",
+        "end":"2100",
         "latitude":"37.898960",
         "longitude":"-122.301880",
         "start":"1700",
@@ -198,7 +207,7 @@
         "truck_name":"Seoul on Wheels"
     },
     {
-        "end":"0900",
+        "end":"2100",
         "latitude":"37.898960",
         "longitude":"-122.301880",
         "start":"1700",
@@ -207,7 +216,7 @@
         "truck_name":"The Rib Whip"
     },
     {
-        "end":"0900",
+        "end":"2100",
         "latitude":"37.898960",
         "longitude":"-122.301880",
         "start":"1700",
@@ -216,7 +225,7 @@
         "truck_name":"Bacon Bacon (1)"
     },
     {
-        "end":"0900",
+        "end":"2100",
         "latitude":"37.898960",
         "longitude":"-122.301880",
         "start":"1700",
@@ -225,7 +234,7 @@
         "truck_name":"Doc's Classic Comfort Food"
     },
     {
-        "end":"0900",
+        "end":"2100",
         "latitude":"37.898960",
         "longitude":"-122.301880",
         "start":"1700",
@@ -234,7 +243,7 @@
         "truck_name":"Drewski's Hot Rod Kitchen"
     },
     {
-        "end":"0900",
+        "end":"2100",
         "latitude":"37.898960",
         "longitude":"-122.301880",
         "start":"1700",
@@ -243,7 +252,7 @@
         "truck_name":"Slightly Skewed"
     },
     {
-        "end":"0900",
+        "end":"2100",
         "latitude":"37.898960",
         "longitude":"-122.301880",
         "start":"1700",
@@ -252,7 +261,7 @@
         "truck_name":"Gyro Stop"
     },
     {
-        "end":"0900",
+        "end":"2100",
         "latitude":"37.898960",
         "longitude":"-122.301880",
         "start":"1700",
@@ -288,7 +297,7 @@
         "truck_name":"Judie's Tacos Locos"
     },
     {
-        "end":"0900",
+        "end":"2100",
         "latitude":"37.586624",
         "longitude":"-122.360718",
         "start":"1700",
@@ -297,7 +306,7 @@
         "truck_name":"Curry Up Now (1)"
     },
     {
-        "end":"0900",
+        "end":"2100",
         "latitude":"37.586624",
         "longitude":"-122.360718",
         "start":"1700",
@@ -306,7 +315,7 @@
         "truck_name":"Seoul on Wheels"
     },
     {
-        "end":"0900",
+        "end":"2100",
         "latitude":"37.586624",
         "longitude":"-122.360718",
         "start":"1700",
@@ -315,7 +324,7 @@
         "truck_name":"An the Go (1)"
     },
     {
-        "end":"0900",
+        "end":"2100",
         "latitude":"37.586624",
         "longitude":"-122.360718",
         "start":"1700",
@@ -324,7 +333,7 @@
         "truck_name":"Cluck It Up"
     },
     {
-        "end":"0900",
+        "end":"2100",
         "latitude":"37.586624",
         "longitude":"-122.360718",
         "start":"1700",
@@ -333,7 +342,7 @@
         "truck_name":"Lexie's Frozen Custard"
     },
     {
-        "end":"0900",
+        "end":"2100",
         "latitude":"37.586624",
         "longitude":"-122.360718",
         "start":"1700",
@@ -342,7 +351,7 @@
         "truck_name":"Hill County BBQ"
     },
     {
-        "end":"0900",
+        "end":"2100",
         "latitude":"37.586624",
         "longitude":"-122.360718",
         "start":"1700",
@@ -351,7 +360,7 @@
         "truck_name":"Adam's Grub Truck"
     },
     {
-        "end":"0900",
+        "end":"2100",
         "latitude":"37.586624",
         "longitude":"-122.360718",
         "start":"1700",
@@ -360,7 +369,7 @@
         "truck_name":"Gold Rush Eatery"
     },
     {
-        "end":"0900",
+        "end":"2100",
         "latitude":"37.586624",
         "longitude":"-122.360718",
         "start":"1700",
@@ -369,7 +378,7 @@
         "truck_name":"Oaxacan Kitchen Mobile"
     },
     {
-        "end":"0900",
+        "end":"2100",
         "latitude":"37.671883",
         "longitude":"-122.470634",
         "start":"1700",
@@ -378,7 +387,7 @@
         "truck_name":"Senor Sisig (1)"
     },
     {
-        "end":"0900",
+        "end":"2100",
         "latitude":"37.671883",
         "longitude":"-122.470634",
         "start":"1700",
@@ -387,7 +396,7 @@
         "truck_name":"The Creme Brulee Cart"
     },
     {
-        "end":"0900",
+        "end":"2100",
         "latitude":"37.671883",
         "longitude":"-122.470634",
         "start":"1700",
@@ -396,7 +405,7 @@
         "truck_name":"KoJa Kitchen"
     },
     {
-        "end":"0900",
+        "end":"2100",
         "latitude":"37.671883",
         "longitude":"-122.470634",
         "start":"1700",
@@ -405,7 +414,7 @@
         "truck_name":"Bacon Bacon (1)"
     },
     {
-        "end":"0900",
+        "end":"2100",
         "latitude":"37.671883",
         "longitude":"-122.470634",
         "start":"1700",
@@ -414,7 +423,7 @@
         "truck_name":"Madd Mex Cantina"
     },
     {
-        "end":"0900",
+        "end":"2100",
         "latitude":"37.671883",
         "longitude":"-122.470634",
         "start":"1700",
@@ -423,7 +432,7 @@
         "truck_name":"Me So Hungry Too"
     },
     {
-        "end":"0900",
+        "end":"2100",
         "latitude":"37.671883",
         "longitude":"-122.470634",
         "start":"1700",
@@ -432,7 +441,7 @@
         "truck_name":"Hula Truck (1)"
     },
     {
-        "end":"0900",
+        "end":"2100",
         "latitude":"37.671883",
         "longitude":"-122.470634",
         "start":"1700",
@@ -441,7 +450,7 @@
         "truck_name":"Kokio Republic"
     },
     {
-        "end":"0900",
+        "end":"2100",
         "latitude":"37.671883",
         "longitude":"-122.470634",
         "start":"1700",
@@ -450,7 +459,7 @@
         "truck_name":"T.Epiphany"
     },
     {
-        "end":"0900",
+        "end":"2100",
         "latitude":"37.671883",
         "longitude":"-122.470634",
         "start":"1700",
@@ -486,7 +495,70 @@
         "truck_name":"Canasta Kitchen"
     },
     {
-        "end":"0900",
+        "end":"2100",
+        "latitude":"37.498650",
+        "longitude":"-122.244621",
+        "start":"1700",
+        "address":"935 Washington Street, San Carlos",
+        "date":"0522",
+        "truck_name":"Pacific Puffs"
+    },
+    {
+        "end":"2100",
+        "latitude":"37.498650",
+        "longitude":"-122.244621",
+        "start":"1700",
+        "address":"935 Washington Street, San Carlos",
+        "date":"0522",
+        "truck_name":"Gold Rush Eatery"
+    },
+    {
+        "end":"2100",
+        "latitude":"37.498650",
+        "longitude":"-122.244621",
+        "start":"1700",
+        "address":"935 Washington Street, San Carlos",
+        "date":"0522",
+        "truck_name":"Tacos El Gondo"
+    },
+    {
+        "end":"2100",
+        "latitude":"37.498650",
+        "longitude":"-122.244621",
+        "start":"1700",
+        "address":"935 Washington Street, San Carlos",
+        "date":"0522",
+        "truck_name":"Paddy Wagon Sliders"
+    },
+    {
+        "end":"2100",
+        "latitude":"37.498650",
+        "longitude":"-122.244621",
+        "start":"1700",
+        "address":"935 Washington Street, San Carlos",
+        "date":"0522",
+        "truck_name":"Porky's SJ"
+    },
+    {
+        "end":"2100",
+        "latitude":"37.498650",
+        "longitude":"-122.244621",
+        "start":"1700",
+        "address":"935 Washington Street, San Carlos",
+        "date":"0522",
+        "truck_name":"Kokio Republic"
+    },
+    {
+        "end":"2100",
+        "latitude":"37.498650",
+        "longitude":"-122.244621",
+        "start":"1700",
+        "address":"935 Washington Street, San Carlos",
+        "date":"0522",
+        "truck_name":"Southern Comfort Kitchen"
+    },
+    {
+        "end":"2100",
         "latitude":"37.980556",
         "longitude":"-122.565834",
         "start":"1700",
@@ -495,7 +567,7 @@
         "truck_name":"Curry Up Now (1)"
     },
     {
-        "end":"0900",
+        "end":"2100",
         "latitude":"37.980556",
         "longitude":"-122.565834",
         "start":"1700",
@@ -504,7 +576,7 @@
         "truck_name":"The Rib Whip"
     },
     {
-        "end":"0900",
+        "end":"2100",
         "latitude":"37.980556",
         "longitude":"-122.565834",
         "start":"1700",
@@ -513,7 +585,7 @@
         "truck_name":"Cheese Gone Wild"
     },
     {
-        "end":"0900",
+        "end":"2100",
         "latitude":"37.980556",
         "longitude":"-122.565834",
         "start":"1700",
@@ -522,7 +594,7 @@
         "truck_name":"WhipOut!"
     },
     {
-        "end":"0900",
+        "end":"2100",
         "latitude":"37.980556",
         "longitude":"-122.565834",
         "start":"1700",
@@ -531,7 +603,7 @@
         "truck_name":"Johnny Doughnuts"
     },
     {
-        "end":"0900",
+        "end":"2100",
         "latitude":"37.980556",
         "longitude":"-122.565834",
         "start":"1700",
@@ -540,7 +612,7 @@
         "truck_name":"3 Brothers Kitchen (1)"
     },
     {
-        "end":"0900",
+        "end":"2100",
         "latitude":"37.980556",
         "longitude":"-122.565834",
         "start":"1700",
@@ -549,7 +621,7 @@
         "truck_name":"EuroBistros"
     },
     {
-        "end":"0900",
+        "end":"2100",
         "latitude":"37.980556",
         "longitude":"-122.565834",
         "start":"1700",
@@ -558,7 +630,7 @@
         "truck_name":"Pluck"
     },
     {
-        "end":"0900",
+        "end":"2100",
         "latitude":"37.800739",
         "longitude":"-122.458237",
         "start":"1700",
@@ -567,7 +639,7 @@
         "truck_name":"Fins on the Hoof"
     },
     {
-        "end":"0900",
+        "end":"2100",
         "latitude":"37.800739",
         "longitude":"-122.458237",
         "start":"1700",
@@ -576,7 +648,7 @@
         "truck_name":"KoJa Kitchen"
     },
     {
-        "end":"0900",
+        "end":"2100",
         "latitude":"37.800739",
         "longitude":"-122.458237",
         "start":"1700",
@@ -585,7 +657,7 @@
         "truck_name":"An the Go (1)"
     },
     {
-        "end":"0900",
+        "end":"2100",
         "latitude":"37.800739",
         "longitude":"-122.458237",
         "start":"1700",
@@ -594,7 +666,7 @@
         "truck_name":"Bacon Bacon (1)"
     },
     {
-        "end":"0900",
+        "end":"2100",
         "latitude":"37.800739",
         "longitude":"-122.458237",
         "start":"1700",
@@ -603,7 +675,7 @@
         "truck_name":"Garden Creamery"
     },
     {
-        "end":"0900",
+        "end":"2100",
         "latitude":"37.800739",
         "longitude":"-122.458237",
         "start":"1700",
@@ -612,7 +684,7 @@
         "truck_name":"Lobsta Truck (1)"
     },
     {
-        "end":"0900",
+        "end":"2100",
         "latitude":"37.800739",
         "longitude":"-122.458237",
         "start":"1700",
@@ -621,7 +693,7 @@
         "truck_name":"Kenny's Heart and Soul"
     },
     {
-        "end":"0900",
+        "end":"2100",
         "latitude":"37.800739",
         "longitude":"-122.458237",
         "start":"1700",
@@ -630,7 +702,7 @@
         "truck_name":"DUM Truck"
     },
     {
-        "end":"0900",
+        "end":"2100",
         "latitude":"37.800739",
         "longitude":"-122.458237",
         "start":"1700",
@@ -639,7 +711,7 @@
         "truck_name":"Kokio Republic"
     },
     {
-        "end":"0900",
+        "end":"2100",
         "latitude":"37.800739",
         "longitude":"-122.458237",
         "start":"1700",
@@ -648,7 +720,7 @@
         "truck_name":"Pagan Fire Pizza"
     },
     {
-        "end":"0900",
+        "end":"2100",
         "latitude":"37.800739",
         "longitude":"-122.458237",
         "start":"1700",
@@ -657,61 +729,7 @@
         "truck_name":"Odang Udon"
     },
     {
-        "end":"1500",
-        "latitude":"37.841007",
-        "longitude":"-122.293114",
-        "start":"1100",
-        "address":"Parking lot on Shellmound St across from Emeryville Public Market, Emeryville",
-        "date":"0516",
-        "truck_name":"Little Red Riding Truck"
-    },
-    {
-        "end":"1500",
-        "latitude":"37.841007",
-        "longitude":"-122.293114",
-        "start":"1100",
-        "address":"Parking lot on Shellmound St across from Emeryville Public Market, Emeryville",
-        "date":"0516",
-        "truck_name":"Lobsta Truck (1)"
-    },
-    {
-        "end":"1500",
-        "latitude":"37.841007",
-        "longitude":"-122.293114",
-        "start":"1100",
-        "address":"Parking lot on Shellmound St across from Emeryville Public Market, Emeryville",
-        "date":"0516",
-        "truck_name":"Licensed 2 Grill"
-    },
-    {
-        "end":"1500",
-        "latitude":"37.841007",
-        "longitude":"-122.293114",
-        "start":"1100",
-        "address":"Parking lot on Shellmound St across from Emeryville Public Market, Emeryville",
-        "date":"0516",
-        "truck_name":"Grab and Go Kabob"
-    },
-    {
-        "end":"1500",
-        "latitude":"37.841007",
-        "longitude":"-122.293114",
-        "start":"1100",
-        "address":"Parking lot on Shellmound St across from Emeryville Public Market, Emeryville",
-        "date":"0516",
-        "truck_name":"3 Brothers Kitchen (1)"
-    },
-    {
-        "end":"1500",
-        "latitude":"37.841007",
-        "longitude":"-122.293114",
-        "start":"1100",
-        "address":"Parking lot on Shellmound St across from Emeryville Public Market, Emeryville",
-        "date":"0516",
-        "truck_name":"Opie's Gourmet Stacked Burgers"
-    },
-    {
-        "end":"0900",
+        "end":"2100",
         "latitude":"37.808895",
         "longitude":"-122.271080",
         "start":"1700",
@@ -720,7 +738,7 @@
         "truck_name":"Ebbett's Good to Go"
     },
     {
-        "end":"0900",
+        "end":"2100",
         "latitude":"37.808895",
         "longitude":"-122.271080",
         "start":"1700",
@@ -729,7 +747,7 @@
         "truck_name":"Go Streatery"
     },
     {
-        "end":"0900",
+        "end":"2100",
         "latitude":"37.808895",
         "longitude":"-122.271080",
         "start":"1700",
@@ -738,7 +756,7 @@
         "truck_name":"Doc's Classic Comfort Food"
     },
     {
-        "end":"0900",
+        "end":"2100",
         "latitude":"37.808895",
         "longitude":"-122.271080",
         "start":"1700",
@@ -747,7 +765,7 @@
         "truck_name":"Cluck It Up"
     },
     {
-        "end":"0900",
+        "end":"2100",
         "latitude":"37.808895",
         "longitude":"-122.271080",
         "start":"1700",
@@ -756,7 +774,7 @@
         "truck_name":"BB On the Go"
     },
     {
-        "end":"0900",
+        "end":"2100",
         "latitude":"37.808895",
         "longitude":"-122.271080",
         "start":"1700",
@@ -873,7 +891,52 @@
         "truck_name":"Tokiko"
     },
     {
-        "end":"0900",
+        "end":"1400",
+        "latitude":"37.782116",
+        "longitude":"-122.406235",
+        "start":"1100",
+        "address":"410 Minna St, San Francisco",
+        "date":"0522",
+        "truck_name":"Mayo amp; Mustard"
+    },
+    {
+        "end":"1400",
+        "latitude":"37.782116",
+        "longitude":"-122.406235",
+        "start":"1100",
+        "address":"410 Minna St, San Francisco",
+        "date":"0522",
+        "truck_name":"Me So Hungry SF"
+    },
+    {
+        "end":"1400",
+        "latitude":"37.782116",
+        "longitude":"-122.406235",
+        "start":"1100",
+        "address":"410 Minna St, San Francisco",
+        "date":"0522",
+        "truck_name":"Lobsta Truck (1)"
+    },
+    {
+        "end":"1400",
+        "latitude":"37.782116",
+        "longitude":"-122.406235",
+        "start":"1100",
+        "address":"410 Minna St, San Francisco",
+        "date":"0522",
+        "truck_name":"Mobowl"
+    },
+    {
+        "end":"1400",
+        "latitude":"37.782116",
+        "longitude":"-122.406235",
+        "start":"1100",
+        "address":"410 Minna St, San Francisco",
+        "date":"0522",
+        "truck_name":"Red Sauce Meatballs"
+    },
+    {
+        "end":"2100",
         "latitude":"37.768330",
         "longitude":"-122.453461",
         "start":"1700",
@@ -882,7 +945,7 @@
         "truck_name":"Senor Sisig (1)"
     },
     {
-        "end":"0900",
+        "end":"2100",
         "latitude":"37.768330",
         "longitude":"-122.453461",
         "start":"1700",
@@ -891,7 +954,7 @@
         "truck_name":"The Chairman (1)"
     },
     {
-        "end":"0900",
+        "end":"2100",
         "latitude":"37.768330",
         "longitude":"-122.453461",
         "start":"1700",
@@ -900,7 +963,7 @@
         "truck_name":"The Creme Brulee Cart"
     },
     {
-        "end":"0900",
+        "end":"2100",
         "latitude":"37.768330",
         "longitude":"-122.453461",
         "start":"1700",
@@ -909,7 +972,7 @@
         "truck_name":"Curry Up Now (1)"
     },
     {
-        "end":"0900",
+        "end":"2100",
         "latitude":"37.768330",
         "longitude":"-122.453461",
         "start":"1700",
@@ -918,7 +981,7 @@
         "truck_name":"An the Go (1)"
     },
     {
-        "end":"0900",
+        "end":"2100",
         "latitude":"37.768330",
         "longitude":"-122.453461",
         "start":"1700",
@@ -927,7 +990,7 @@
         "truck_name":"Bacon Bacon (1)"
     },
     {
-        "end":"0900",
+        "end":"2100",
         "latitude":"37.768330",
         "longitude":"-122.453461",
         "start":"1700",
@@ -936,7 +999,7 @@
         "truck_name":"The Boneyard"
     },
     {
-        "end":"0900",
+        "end":"2100",
         "latitude":"37.768330",
         "longitude":"-122.453461",
         "start":"1700",
@@ -945,7 +1008,7 @@
         "truck_name":"Johnny Doughnuts"
     },
     {
-        "end":"0900",
+        "end":"2100",
         "latitude":"37.768330",
         "longitude":"-122.453461",
         "start":"1700",
@@ -954,7 +1017,7 @@
         "truck_name":"Korean Bob Cha"
     },
     {
-        "end":"0900",
+        "end":"2100",
         "latitude":"37.768330",
         "longitude":"-122.453461",
         "start":"1700",
@@ -963,7 +1026,7 @@
         "truck_name":"Me So Hungry Too"
     },
     {
-        "end":"0900",
+        "end":"2100",
         "latitude":"37.768330",
         "longitude":"-122.453461",
         "start":"1700",
@@ -972,7 +1035,7 @@
         "truck_name":"Kome Sushi Burrito"
     },
     {
-        "end":"0900",
+        "end":"2100",
         "latitude":"37.768330",
         "longitude":"-122.453461",
         "start":"1700",
@@ -1051,6 +1114,42 @@
         "address":"850 Front St. , San Francisco",
         "date":"0520",
         "truck_name":"We Sushi"
+    },
+    {
+        "end":"1400",
+        "latitude":"37.799221",
+        "longitude":"-122.399979",
+        "start":"1100",
+        "address":"850 Front St. , San Francisco",
+        "date":"0522",
+        "truck_name":"Seoul on Wheels"
+    },
+    {
+        "end":"1400",
+        "latitude":"37.799221",
+        "longitude":"-122.399979",
+        "start":"1100",
+        "address":"850 Front St. , San Francisco",
+        "date":"0522",
+        "truck_name":"Phat Thai"
+    },
+    {
+        "end":"1400",
+        "latitude":"37.799221",
+        "longitude":"-122.399979",
+        "start":"1100",
+        "address":"850 Front St. , San Francisco",
+        "date":"0522",
+        "truck_name":"Ebbett's Good to Go"
+    },
+    {
+        "end":"1400",
+        "latitude":"37.799221",
+        "longitude":"-122.399979",
+        "start":"1100",
+        "address":"850 Front St. , San Francisco",
+        "date":"0522",
+        "truck_name":"The Boneyard"
     },
     {
         "end":"1400",
@@ -1143,7 +1242,304 @@
         "truck_name":"3-Sum Eats"
     },
     {
-        "end":"0900",
+        "end":"2200",
+        "latitude":"37.806816",
+        "longitude":"-122.431488",
+        "start":"1700",
+        "address":"2 Marina Blvd, San Francisco",
+        "date":"0522",
+        "truck_name":"Senor Sisig (1)"
+    },
+    {
+        "end":"2200",
+        "latitude":"37.806816",
+        "longitude":"-122.431488",
+        "start":"1700",
+        "address":"2 Marina Blvd, San Francisco",
+        "date":"0522",
+        "truck_name":"Bini's Kitchen"
+    },
+    {
+        "end":"2200",
+        "latitude":"37.806816",
+        "longitude":"-122.431488",
+        "start":"1700",
+        "address":"2 Marina Blvd, San Francisco",
+        "date":"0522",
+        "truck_name":"Bok Ssam"
+    },
+    {
+        "end":"2200",
+        "latitude":"37.806816",
+        "longitude":"-122.431488",
+        "start":"1700",
+        "address":"2 Marina Blvd, San Francisco",
+        "date":"0522",
+        "truck_name":"Bombzies BBQ"
+    },
+    {
+        "end":"2200",
+        "latitude":"37.806816",
+        "longitude":"-122.431488",
+        "start":"1700",
+        "address":"2 Marina Blvd, San Francisco",
+        "date":"0522",
+        "truck_name":"The Chairman (1)"
+    },
+    {
+        "end":"2200",
+        "latitude":"37.806816",
+        "longitude":"-122.431488",
+        "start":"1700",
+        "address":"2 Marina Blvd, San Francisco",
+        "date":"0522",
+        "truck_name":"The Creme Brulee Cart"
+    },
+    {
+        "end":"2200",
+        "latitude":"37.806816",
+        "longitude":"-122.431488",
+        "start":"1700",
+        "address":"2 Marina Blvd, San Francisco",
+        "date":"0522",
+        "truck_name":"Curry Up Now (1)"
+    },
+    {
+        "end":"2200",
+        "latitude":"37.806816",
+        "longitude":"-122.431488",
+        "start":"1700",
+        "address":"2 Marina Blvd, San Francisco",
+        "date":"0522",
+        "truck_name":"El Sur"
+    },
+    {
+        "end":"2200",
+        "latitude":"37.806816",
+        "longitude":"-122.431488",
+        "start":"1700",
+        "address":"2 Marina Blvd, San Francisco",
+        "date":"0522",
+        "truck_name":"KoJa Kitchen"
+    },
+    {
+        "end":"2200",
+        "latitude":"37.806816",
+        "longitude":"-122.431488",
+        "start":"1700",
+        "address":"2 Marina Blvd, San Francisco",
+        "date":"0522",
+        "truck_name":"The Taco Guys"
+    },
+    {
+        "end":"2200",
+        "latitude":"37.806816",
+        "longitude":"-122.431488",
+        "start":"1700",
+        "address":"2 Marina Blvd, San Francisco",
+        "date":"0522",
+        "truck_name":"An the Go (1)"
+    },
+    {
+        "end":"2200",
+        "latitude":"37.806816",
+        "longitude":"-122.431488",
+        "start":"1700",
+        "address":"2 Marina Blvd, San Francisco",
+        "date":"0522",
+        "truck_name":"Magnolia"
+    },
+    {
+        "end":"2200",
+        "latitude":"37.806816",
+        "longitude":"-122.431488",
+        "start":"1700",
+        "address":"2 Marina Blvd, San Francisco",
+        "date":"0522",
+        "truck_name":"Bacon Bacon (1)"
+    },
+    {
+        "end":"2200",
+        "latitude":"37.806816",
+        "longitude":"-122.431488",
+        "start":"1700",
+        "address":"2 Marina Blvd, San Francisco",
+        "date":"0522",
+        "truck_name":"Happy Dumplings"
+    },
+    {
+        "end":"2200",
+        "latitude":"37.806816",
+        "longitude":"-122.431488",
+        "start":"1700",
+        "address":"2 Marina Blvd, San Francisco",
+        "date":"0522",
+        "truck_name":"Rocko's Ice Cream Tacos"
+    },
+    {
+        "end":"2200",
+        "latitude":"37.806816",
+        "longitude":"-122.431488",
+        "start":"1700",
+        "address":"2 Marina Blvd, San Francisco",
+        "date":"0522",
+        "truck_name":"The Boneyard"
+    },
+    {
+        "end":"2200",
+        "latitude":"37.806816",
+        "longitude":"-122.431488",
+        "start":"1700",
+        "address":"2 Marina Blvd, San Francisco",
+        "date":"0522",
+        "truck_name":"QBC"
+    },
+    {
+        "end":"2200",
+        "latitude":"37.806816",
+        "longitude":"-122.431488",
+        "start":"1700",
+        "address":"2 Marina Blvd, San Francisco",
+        "date":"0522",
+        "truck_name":"Johnny Doughnuts"
+    },
+    {
+        "end":"2200",
+        "latitude":"37.806816",
+        "longitude":"-122.431488",
+        "start":"1700",
+        "address":"2 Marina Blvd, San Francisco",
+        "date":"0522",
+        "truck_name":"Korean Bob Cha"
+    },
+    {
+        "end":"2200",
+        "latitude":"37.806816",
+        "longitude":"-122.431488",
+        "start":"1700",
+        "address":"2 Marina Blvd, San Francisco",
+        "date":"0522",
+        "truck_name":"Drewski's Hot Rod Kitchen"
+    },
+    {
+        "end":"2200",
+        "latitude":"37.806816",
+        "longitude":"-122.431488",
+        "start":"1700",
+        "address":"2 Marina Blvd, San Francisco",
+        "date":"0522",
+        "truck_name":"Lobsta Truck (1)"
+    },
+    {
+        "end":"2200",
+        "latitude":"37.806816",
+        "longitude":"-122.431488",
+        "start":"1700",
+        "address":"2 Marina Blvd, San Francisco",
+        "date":"0522",
+        "truck_name":"France Delices"
+    },
+    {
+        "end":"2200",
+        "latitude":"37.806816",
+        "longitude":"-122.431488",
+        "start":"1700",
+        "address":"2 Marina Blvd, San Francisco",
+        "date":"0522",
+        "truck_name":"El Pipila"
+    },
+    {
+        "end":"2200",
+        "latitude":"37.806816",
+        "longitude":"-122.431488",
+        "start":"1700",
+        "address":"2 Marina Blvd, San Francisco",
+        "date":"0522",
+        "truck_name":"Jeepney Guy"
+    },
+    {
+        "end":"2200",
+        "latitude":"37.806816",
+        "longitude":"-122.431488",
+        "start":"1700",
+        "address":"2 Marina Blvd, San Francisco",
+        "date":"0522",
+        "truck_name":"Sugar and Spun"
+    },
+    {
+        "end":"2200",
+        "latitude":"37.806816",
+        "longitude":"-122.431488",
+        "start":"1700",
+        "address":"2 Marina Blvd, San Francisco",
+        "date":"0522",
+        "truck_name":"Raj + Singh"
+    },
+    {
+        "end":"2200",
+        "latitude":"37.806816",
+        "longitude":"-122.431488",
+        "start":"1700",
+        "address":"2 Marina Blvd, San Francisco",
+        "date":"0522",
+        "truck_name":"Hula Truck (1)"
+    },
+    {
+        "end":"2200",
+        "latitude":"37.806816",
+        "longitude":"-122.431488",
+        "start":"1700",
+        "address":"2 Marina Blvd, San Francisco",
+        "date":"0522",
+        "truck_name":"T.Epiphany"
+    },
+    {
+        "end":"2200",
+        "latitude":"37.806816",
+        "longitude":"-122.431488",
+        "start":"1700",
+        "address":"2 Marina Blvd, San Francisco",
+        "date":"0522",
+        "truck_name":"Burma Bear"
+    },
+    {
+        "end":"2200",
+        "latitude":"37.806816",
+        "longitude":"-122.431488",
+        "start":"1700",
+        "address":"2 Marina Blvd, San Francisco",
+        "date":"0522",
+        "truck_name":"CHICA"
+    },
+    {
+        "end":"2200",
+        "latitude":"37.806816",
+        "longitude":"-122.431488",
+        "start":"1700",
+        "address":"2 Marina Blvd, San Francisco",
+        "date":"0522",
+        "truck_name":"Frita's Shack"
+    },
+    {
+        "end":"2200",
+        "latitude":"37.806816",
+        "longitude":"-122.431488",
+        "start":"1700",
+        "address":"2 Marina Blvd, San Francisco",
+        "date":"0522",
+        "truck_name":"3-Sum Eats"
+    },
+    {
+        "end":"2200",
+        "latitude":"37.806816",
+        "longitude":"-122.431488",
+        "start":"1700",
+        "address":"2 Marina Blvd, San Francisco",
+        "date":"0522",
+        "truck_name":"Rye on the Road"
+    },
+    {
+        "end":"2100",
         "latitude":"37.518349",
         "longitude":"-122.273178",
         "start":"1700",
@@ -1152,7 +1548,7 @@
         "truck_name":"The Chairman (1)"
     },
     {
-        "end":"0900",
+        "end":"2100",
         "latitude":"37.518349",
         "longitude":"-122.273178",
         "start":"1700",
@@ -1161,7 +1557,7 @@
         "truck_name":"An the Go (1)"
     },
     {
-        "end":"0900",
+        "end":"2100",
         "latitude":"37.518349",
         "longitude":"-122.273178",
         "start":"1700",
@@ -1170,7 +1566,7 @@
         "truck_name":"Pacific Puffs"
     },
     {
-        "end":"0900",
+        "end":"2100",
         "latitude":"37.518349",
         "longitude":"-122.273178",
         "start":"1700",
@@ -1179,7 +1575,7 @@
         "truck_name":"Sam's Chowder Mobile (1)"
     },
     {
-        "end":"0900",
+        "end":"2100",
         "latitude":"37.518349",
         "longitude":"-122.273178",
         "start":"1700",
@@ -1188,7 +1584,7 @@
         "truck_name":"The Boneyard"
     },
     {
-        "end":"0900",
+        "end":"2100",
         "latitude":"37.518349",
         "longitude":"-122.273178",
         "start":"1700",
@@ -1197,7 +1593,7 @@
         "truck_name":"Me So Hungry Too"
     },
     {
-        "end":"0900",
+        "end":"2100",
         "latitude":"37.518349",
         "longitude":"-122.273178",
         "start":"1700",
@@ -1206,7 +1602,7 @@
         "truck_name":"Red Sauce Meatballs"
     },
     {
-        "end":"0900",
+        "end":"2100",
         "latitude":"37.518349",
         "longitude":"-122.273178",
         "start":"1700",
@@ -1215,7 +1611,7 @@
         "truck_name":"Pluck"
     },
     {
-        "end":"0900",
+        "end":"2100",
         "latitude":"37.518349",
         "longitude":"-122.273178",
         "start":"1700",
@@ -1224,7 +1620,7 @@
         "truck_name":"Kokio Republic"
     },
     {
-        "end":"0900",
+        "end":"2100",
         "latitude":"37.670837",
         "longitude":"-122.085793",
         "start":"1700",
@@ -1233,7 +1629,7 @@
         "truck_name":"Go Streatery"
     },
     {
-        "end":"0900",
+        "end":"2100",
         "latitude":"37.670837",
         "longitude":"-122.085793",
         "start":"1700",
@@ -1242,7 +1638,7 @@
         "truck_name":"My Shrimp Shack"
     },
     {
-        "end":"0900",
+        "end":"2100",
         "latitude":"37.670837",
         "longitude":"-122.085793",
         "start":"1700",
@@ -1251,7 +1647,7 @@
         "truck_name":"Frozen Kuhsterd"
     },
     {
-        "end":"0900",
+        "end":"2100",
         "latitude":"37.670837",
         "longitude":"-122.085793",
         "start":"1700",
@@ -1260,7 +1656,7 @@
         "truck_name":"Smothered Fries"
     },
     {
-        "end":"0900",
+        "end":"2100",
         "latitude":"37.670837",
         "longitude":"-122.085793",
         "start":"1700",
@@ -1269,7 +1665,7 @@
         "truck_name":"H Butler's Bar BBQ"
     },
     {
-        "end":"0900",
+        "end":"2100",
         "latitude":"37.670837",
         "longitude":"-122.085793",
         "start":"1700",
@@ -1278,7 +1674,7 @@
         "truck_name":"Grillaz Gone Wild"
     },
     {
-        "end":"0900",
+        "end":"2100",
         "latitude":"37.670837",
         "longitude":"-122.085793",
         "start":"1700",
@@ -1287,7 +1683,7 @@
         "truck_name":"Canasta Kitchen"
     },
     {
-        "end":"0900",
+        "end":"2100",
         "latitude":"37.670837",
         "longitude":"-122.085793",
         "start":"1700",
@@ -1296,7 +1692,7 @@
         "truck_name":"Southern Comfort Kitchen"
     },
     {
-        "end":"0900",
+        "end":"2100",
         "latitude":"38.088669",
         "longitude":"-122.552086",
         "start":"1700",
@@ -1305,7 +1701,7 @@
         "truck_name":"The Taco Guys"
     },
     {
-        "end":"0900",
+        "end":"2100",
         "latitude":"38.088669",
         "longitude":"-122.552086",
         "start":"1700",
@@ -1314,7 +1710,7 @@
         "truck_name":"Johnny Doughnuts"
     },
     {
-        "end":"0900",
+        "end":"2100",
         "latitude":"38.088669",
         "longitude":"-122.552086",
         "start":"1700",
@@ -1323,7 +1719,7 @@
         "truck_name":"France Delices"
     },
     {
-        "end":"0900",
+        "end":"2100",
         "latitude":"38.088669",
         "longitude":"-122.552086",
         "start":"1700",
@@ -1332,7 +1728,7 @@
         "truck_name":"Opie's Gourmet Stacked Burgers"
     },
     {
-        "end":"0900",
+        "end":"2100",
         "latitude":"38.088669",
         "longitude":"-122.552086",
         "start":"1700",
@@ -1341,7 +1737,7 @@
         "truck_name":"Red Sauce Meatballs"
     },
     {
-        "end":"0900",
+        "end":"2100",
         "latitude":"38.088669",
         "longitude":"-122.552086",
         "start":"1700",
@@ -1350,7 +1746,7 @@
         "truck_name":"Pluck"
     },
     {
-        "end":"0900",
+        "end":"2100",
         "latitude":"38.088669",
         "longitude":"-122.552086",
         "start":"1700",
@@ -1359,94 +1755,157 @@
         "truck_name":"Bariadelli Caribbean Pizza"
     },
     {
-        "end":"1500",
-        "latitude":"37.755669",
-        "longitude":"-122.249748",
-        "start":"1100",
-        "address":"Park St amp; Franciscan Way, Alameda",
-        "date":"0516",
+        "end":"2100",
+        "latitude":"37.798618",
+        "longitude":"-122.264191",
+        "start":"1700",
+        "address":"1000 Oak St, Oakland",
+        "date":"0522",
+        "truck_name":"Senor Sisig (1)"
+    },
+    {
+        "end":"2100",
+        "latitude":"37.798618",
+        "longitude":"-122.264191",
+        "start":"1700",
+        "address":"1000 Oak St, Oakland",
+        "date":"0522",
         "truck_name":"The Chairman (1)"
     },
     {
-        "end":"1500",
-        "latitude":"37.755669",
-        "longitude":"-122.249748",
-        "start":"1100",
-        "address":"Park St amp; Franciscan Way, Alameda",
-        "date":"0516",
-        "truck_name":"Cupkates"
+        "end":"2100",
+        "latitude":"37.798618",
+        "longitude":"-122.264191",
+        "start":"1700",
+        "address":"1000 Oak St, Oakland",
+        "date":"0522",
+        "truck_name":"Sanguchon (1)"
     },
     {
-        "end":"1500",
-        "latitude":"37.755669",
-        "longitude":"-122.249748",
-        "start":"1100",
-        "address":"Park St amp; Franciscan Way, Alameda",
-        "date":"0516",
-        "truck_name":"KoJa Kitchen"
+        "end":"2100",
+        "latitude":"37.798618",
+        "longitude":"-122.264191",
+        "start":"1700",
+        "address":"1000 Oak St, Oakland",
+        "date":"0522",
+        "truck_name":"Seoul on Wheels"
     },
     {
-        "end":"1500",
-        "latitude":"37.755669",
-        "longitude":"-122.249748",
-        "start":"1100",
-        "address":"Park St amp; Franciscan Way, Alameda",
-        "date":"0516",
-        "truck_name":"An the Go (1)"
+        "end":"2100",
+        "latitude":"37.798618",
+        "longitude":"-122.264191",
+        "start":"1700",
+        "address":"1000 Oak St, Oakland",
+        "date":"0522",
+        "truck_name":"WhipOut!"
     },
     {
-        "end":"1500",
-        "latitude":"37.755669",
-        "longitude":"-122.249748",
-        "start":"1100",
-        "address":"Park St amp; Franciscan Way, Alameda",
-        "date":"0516",
-        "truck_name":"Bacon Bacon (1)"
+        "end":"2100",
+        "latitude":"37.798618",
+        "longitude":"-122.264191",
+        "start":"1700",
+        "address":"1000 Oak St, Oakland",
+        "date":"0522",
+        "truck_name":"Liba Falafel"
     },
     {
-        "end":"1500",
-        "latitude":"37.755669",
-        "longitude":"-122.249748",
-        "start":"1100",
-        "address":"Park St amp; Franciscan Way, Alameda",
-        "date":"0516",
-        "truck_name":"My Shrimp Shack"
+        "end":"2100",
+        "latitude":"37.798618",
+        "longitude":"-122.264191",
+        "start":"1700",
+        "address":"1000 Oak St, Oakland",
+        "date":"0522",
+        "truck_name":"Frozen Kuhsterd"
     },
     {
-        "end":"1500",
-        "latitude":"37.755669",
-        "longitude":"-122.249748",
-        "start":"1100",
-        "address":"Park St amp; Franciscan Way, Alameda",
-        "date":"0516",
-        "truck_name":"Hula Truck (1)"
+        "end":"2100",
+        "latitude":"37.798618",
+        "longitude":"-122.264191",
+        "start":"1700",
+        "address":"1000 Oak St, Oakland",
+        "date":"0522",
+        "truck_name":"Johnny Doughnuts"
     },
     {
-        "end":"1500",
-        "latitude":"37.755669",
-        "longitude":"-122.249748",
-        "start":"1100",
-        "address":"Park St amp; Franciscan Way, Alameda",
-        "date":"0516",
+        "end":"2100",
+        "latitude":"37.798618",
+        "longitude":"-122.264191",
+        "start":"1700",
+        "address":"1000 Oak St, Oakland",
+        "date":"0522",
+        "truck_name":"The Waffle Roost"
+    },
+    {
+        "end":"2100",
+        "latitude":"37.798618",
+        "longitude":"-122.264191",
+        "start":"1700",
+        "address":"1000 Oak St, Oakland",
+        "date":"0522",
+        "truck_name":"Kenny's Heart and Soul"
+    },
+    {
+        "end":"2100",
+        "latitude":"37.798618",
+        "longitude":"-122.264191",
+        "start":"1700",
+        "address":"1000 Oak St, Oakland",
+        "date":"0522",
+        "truck_name":"3 Brothers Kitchen (1)"
+    },
+    {
+        "end":"2100",
+        "latitude":"37.798618",
+        "longitude":"-122.264191",
+        "start":"1700",
+        "address":"1000 Oak St, Oakland",
+        "date":"0522",
         "truck_name":"Kome Sushi Burrito"
     },
     {
-        "end":"1500",
-        "latitude":"37.755669",
-        "longitude":"-122.249748",
+        "end":"1400",
+        "latitude":"37.779415",
+        "longitude":"-122.418053",
         "start":"1100",
-        "address":"Park St amp; Franciscan Way, Alameda",
-        "date":"0516",
-        "truck_name":"Southern Comfort Kitchen"
+        "address":"McAllister and 1 Dr Carlton B Goodlett Pl, San Francisco",
+        "date":"0522",
+        "truck_name":"Senor Sisig (1)"
     },
     {
-        "end":"1500",
-        "latitude":"37.755669",
-        "longitude":"-122.249748",
+        "end":"1400",
+        "latitude":"37.779415",
+        "longitude":"-122.418053",
         "start":"1100",
-        "address":"Park St amp; Franciscan Way, Alameda",
-        "date":"0516",
-        "truck_name":"Sanguchon (2)"
+        "address":"McAllister and 1 Dr Carlton B Goodlett Pl, San Francisco",
+        "date":"0522",
+        "truck_name":"Little Green Cyclo (1)"
+    },
+    {
+        "end":"1400",
+        "latitude":"37.779415",
+        "longitude":"-122.418053",
+        "start":"1100",
+        "address":"McAllister and 1 Dr Carlton B Goodlett Pl, San Francisco",
+        "date":"0522",
+        "truck_name":"Hiyaaa"
+    },
+    {
+        "end":"1400",
+        "latitude":"37.779415",
+        "longitude":"-122.418053",
+        "start":"1100",
+        "address":"McAllister and 1 Dr Carlton B Goodlett Pl, San Francisco",
+        "date":"0522",
+        "truck_name":"Bacon Bacon (1)"
+    },
+    {
+        "end":"1400",
+        "latitude":"37.779415",
+        "longitude":"-122.418053",
+        "start":"1100",
+        "address":"McAllister and 1 Dr Carlton B Goodlett Pl, San Francisco",
+        "date":"0522",
+        "truck_name":"Liba Falafel"
     },
     {
         "end":"1400",
@@ -1501,6 +1960,33 @@
         "address":"678 5th Street, San Francisco",
         "date":"0520",
         "truck_name":"Me So Hungry Too"
+    },
+    {
+        "end":"1400",
+        "latitude":"37.775715",
+        "longitude":"-122.397652",
+        "start":"1100",
+        "address":"678 5th Street, San Francisco",
+        "date":"0522",
+        "truck_name":"The Rib Whip"
+    },
+    {
+        "end":"1400",
+        "latitude":"37.775715",
+        "longitude":"-122.397652",
+        "start":"1100",
+        "address":"678 5th Street, San Francisco",
+        "date":"0522",
+        "truck_name":"Oui Chef"
+    },
+    {
+        "end":"1400",
+        "latitude":"37.775715",
+        "longitude":"-122.397652",
+        "start":"1100",
+        "address":"678 5th Street, San Francisco",
+        "date":"0522",
+        "truck_name":"Kokio Republic"
     },
     {
         "end":"1600",
@@ -1899,7 +2385,7 @@
         "truck_name":"Peru Chi"
     },
     {
-        "end":"0900",
+        "end":"2100",
         "latitude":"37.453758",
         "longitude":"-122.181107",
         "start":"1700",
@@ -1908,7 +2394,7 @@
         "truck_name":"Little Green Cyclo (1)"
     },
     {
-        "end":"0900",
+        "end":"2100",
         "latitude":"37.453758",
         "longitude":"-122.181107",
         "start":"1700",
@@ -1917,7 +2403,7 @@
         "truck_name":"Cluck It Up"
     },
     {
-        "end":"0900",
+        "end":"2100",
         "latitude":"37.453758",
         "longitude":"-122.181107",
         "start":"1700",
@@ -1926,7 +2412,7 @@
         "truck_name":"Me So Hungry Too"
     },
     {
-        "end":"0900",
+        "end":"2100",
         "latitude":"37.453758",
         "longitude":"-122.181107",
         "start":"1700",
@@ -1935,7 +2421,7 @@
         "truck_name":"Hill County BBQ"
     },
     {
-        "end":"0900",
+        "end":"2100",
         "latitude":"37.453758",
         "longitude":"-122.181107",
         "start":"1700",
@@ -1944,7 +2430,7 @@
         "truck_name":"Gold Rush Eatery"
     },
     {
-        "end":"0900",
+        "end":"2100",
         "latitude":"37.453758",
         "longitude":"-122.181107",
         "start":"1700",
@@ -1953,7 +2439,7 @@
         "truck_name":"Hula Truck (1)"
     },
     {
-        "end":"0900",
+        "end":"2100",
         "latitude":"37.453758",
         "longitude":"-122.181107",
         "start":"1700",
@@ -1962,7 +2448,7 @@
         "truck_name":"Tacos El Gondo"
     },
     {
-        "end":"0900",
+        "end":"2100",
         "latitude":"37.453758",
         "longitude":"-122.181107",
         "start":"1700",
@@ -1971,7 +2457,7 @@
         "truck_name":"Peru Chi"
     },
     {
-        "end":"0900",
+        "end":"2100",
         "latitude":"37.453758",
         "longitude":"-122.181107",
         "start":"1700",
@@ -1980,7 +2466,7 @@
         "truck_name":"Ark Grill"
     },
     {
-        "end":"0900",
+        "end":"2100",
         "latitude":"37.453758",
         "longitude":"-122.181107",
         "start":"1700",
@@ -1989,7 +2475,7 @@
         "truck_name":"Kome Sushi Burrito"
     },
     {
-        "end":"0900",
+        "end":"2100",
         "latitude":"37.873489",
         "longitude":"-122.282700",
         "start":"1700",
@@ -1998,7 +2484,7 @@
         "truck_name":"The Creme Brulee Cart"
     },
     {
-        "end":"0900",
+        "end":"2100",
         "latitude":"37.873489",
         "longitude":"-122.282700",
         "start":"1700",
@@ -2007,7 +2493,7 @@
         "truck_name":"WhipOut!"
     },
     {
-        "end":"0900",
+        "end":"2100",
         "latitude":"37.873489",
         "longitude":"-122.282700",
         "start":"1700",
@@ -2016,7 +2502,7 @@
         "truck_name":"Doc's Classic Comfort Food"
     },
     {
-        "end":"0900",
+        "end":"2100",
         "latitude":"37.873489",
         "longitude":"-122.282700",
         "start":"1700",
@@ -2025,7 +2511,7 @@
         "truck_name":"Hongry Kong (1)"
     },
     {
-        "end":"0900",
+        "end":"2100",
         "latitude":"37.873489",
         "longitude":"-122.282700",
         "start":"1700",
@@ -2034,7 +2520,7 @@
         "truck_name":"Lobsta Truck (1)"
     },
     {
-        "end":"0900",
+        "end":"2100",
         "latitude":"37.873489",
         "longitude":"-122.282700",
         "start":"1700",
@@ -2043,7 +2529,7 @@
         "truck_name":"No Worries"
     },
     {
-        "end":"0900",
+        "end":"2100",
         "latitude":"37.873489",
         "longitude":"-122.282700",
         "start":"1700",
@@ -2124,7 +2610,7 @@
         "truck_name":"Southern Comfort Kitchen"
     },
     {
-        "end":"0900",
+        "end":"2100",
         "latitude":"37.406269",
         "longitude":"-122.120743",
         "start":"1700",
@@ -2133,7 +2619,7 @@
         "truck_name":"We Sushi"
     },
     {
-        "end":"0900",
+        "end":"2100",
         "latitude":"37.406269",
         "longitude":"-122.120743",
         "start":"1700",
@@ -2142,7 +2628,7 @@
         "truck_name":"Rocko's Ice Cream Tacos"
     },
     {
-        "end":"0900",
+        "end":"2100",
         "latitude":"37.406269",
         "longitude":"-122.120743",
         "start":"1700",
@@ -2151,7 +2637,7 @@
         "truck_name":"Roderick's BBQ"
     },
     {
-        "end":"0900",
+        "end":"2100",
         "latitude":"37.406269",
         "longitude":"-122.120743",
         "start":"1700",
@@ -2160,7 +2646,7 @@
         "truck_name":"Lobsta Truck (1)"
     },
     {
-        "end":"0900",
+        "end":"2100",
         "latitude":"37.406269",
         "longitude":"-122.120743",
         "start":"1700",
@@ -2169,7 +2655,7 @@
         "truck_name":"Soulnese"
     },
     {
-        "end":"0900",
+        "end":"2100",
         "latitude":"37.406269",
         "longitude":"-122.120743",
         "start":"1700",
@@ -2178,7 +2664,7 @@
         "truck_name":"Speedy Panini"
     },
     {
-        "end":"0900",
+        "end":"2100",
         "latitude":"37.406269",
         "longitude":"-122.120743",
         "start":"1700",
@@ -2187,7 +2673,7 @@
         "truck_name":"Los Tolucas"
     },
     {
-        "end":"0900",
+        "end":"2100",
         "latitude":"37.313171",
         "longitude":"-122.072380",
         "start":"1700",
@@ -2196,7 +2682,7 @@
         "truck_name":"The Chairman (1)"
     },
     {
-        "end":"0900",
+        "end":"2100",
         "latitude":"37.313171",
         "longitude":"-122.072380",
         "start":"1700",
@@ -2205,7 +2691,7 @@
         "truck_name":"Curry Up Now (1)"
     },
     {
-        "end":"0900",
+        "end":"2100",
         "latitude":"37.313171",
         "longitude":"-122.072380",
         "start":"1700",
@@ -2214,7 +2700,7 @@
         "truck_name":"Sam's Chowder Mobile (1)"
     },
     {
-        "end":"0900",
+        "end":"2100",
         "latitude":"37.313171",
         "longitude":"-122.072380",
         "start":"1700",
@@ -2223,7 +2709,7 @@
         "truck_name":"Frozen Kuhsterd"
     },
     {
-        "end":"0900",
+        "end":"2100",
         "latitude":"37.313171",
         "longitude":"-122.072380",
         "start":"1700",
@@ -2232,7 +2718,7 @@
         "truck_name":"Hongry Kong (1)"
     },
     {
-        "end":"0900",
+        "end":"2100",
         "latitude":"37.313171",
         "longitude":"-122.072380",
         "start":"1700",
@@ -2241,7 +2727,7 @@
         "truck_name":"Paddy Wagon Sliders"
     },
     {
-        "end":"0900",
+        "end":"2100",
         "latitude":"37.313171",
         "longitude":"-122.072380",
         "start":"1700",
@@ -2250,7 +2736,7 @@
         "truck_name":"Porky's SJ"
     },
     {
-        "end":"0900",
+        "end":"2100",
         "latitude":"37.313171",
         "longitude":"-122.072380",
         "start":"1700",
@@ -2259,7 +2745,7 @@
         "truck_name":"Crepe 'Em Coming"
     },
     {
-        "end":"0900",
+        "end":"2100",
         "latitude":"37.313171",
         "longitude":"-122.072380",
         "start":"1700",
@@ -2268,7 +2754,7 @@
         "truck_name":"Takoz Mod Mex"
     },
     {
-        "end":"0900",
+        "end":"2100",
         "latitude":"37.383087",
         "longitude":"-121.996841",
         "start":"1700",
@@ -2277,7 +2763,7 @@
         "truck_name":"Curry Up Now (1)"
     },
     {
-        "end":"0900",
+        "end":"2100",
         "latitude":"37.383087",
         "longitude":"-121.996841",
         "start":"1700",
@@ -2286,7 +2772,7 @@
         "truck_name":"We Sushi"
     },
     {
-        "end":"0900",
+        "end":"2100",
         "latitude":"37.383087",
         "longitude":"-121.996841",
         "start":"1700",
@@ -2295,7 +2781,7 @@
         "truck_name":"Rocko's Ice Cream Tacos"
     },
     {
-        "end":"0900",
+        "end":"2100",
         "latitude":"37.383087",
         "longitude":"-121.996841",
         "start":"1700",
@@ -2304,7 +2790,7 @@
         "truck_name":"Roderick's BBQ"
     },
     {
-        "end":"0900",
+        "end":"2100",
         "latitude":"37.383087",
         "longitude":"-121.996841",
         "start":"1700",
@@ -2313,7 +2799,7 @@
         "truck_name":"Hula Truck (1)"
     },
     {
-        "end":"0900",
+        "end":"2100",
         "latitude":"37.383087",
         "longitude":"-121.996841",
         "start":"1700",
@@ -2322,7 +2808,7 @@
         "truck_name":"Paddy Wagon Sliders"
     },
     {
-        "end":"0900",
+        "end":"2100",
         "latitude":"37.383087",
         "longitude":"-121.996841",
         "start":"1700",
@@ -2331,7 +2817,7 @@
         "truck_name":"Road Dogs"
     },
     {
-        "end":"0900",
+        "end":"2100",
         "latitude":"37.383087",
         "longitude":"-121.996841",
         "start":"1700",
@@ -2340,7 +2826,7 @@
         "truck_name":"Los Tolucas"
     },
     {
-        "end":"0900",
+        "end":"2100",
         "latitude":"37.383087",
         "longitude":"-121.996841",
         "start":"1700",
@@ -2349,7 +2835,7 @@
         "truck_name":"Crepe 'Em Coming"
     },
     {
-        "end":"0900",
+        "end":"2100",
         "latitude":"37.557060",
         "longitude":"-122.270012",
         "start":"1700",
@@ -2358,7 +2844,7 @@
         "truck_name":"Hiyaaa"
     },
     {
-        "end":"0900",
+        "end":"2100",
         "latitude":"37.557060",
         "longitude":"-122.270012",
         "start":"1700",
@@ -2367,7 +2853,7 @@
         "truck_name":"Bacon Bacon (1)"
     },
     {
-        "end":"0900",
+        "end":"2100",
         "latitude":"37.557060",
         "longitude":"-122.270012",
         "start":"1700",
@@ -2376,7 +2862,7 @@
         "truck_name":"SAJJ"
     },
     {
-        "end":"0900",
+        "end":"2100",
         "latitude":"37.557060",
         "longitude":"-122.270012",
         "start":"1700",
@@ -2385,7 +2871,7 @@
         "truck_name":"The Boneyard"
     },
     {
-        "end":"0900",
+        "end":"2100",
         "latitude":"37.557060",
         "longitude":"-122.270012",
         "start":"1700",
@@ -2394,7 +2880,7 @@
         "truck_name":"Johnny Doughnuts"
     },
     {
-        "end":"0900",
+        "end":"2100",
         "latitude":"37.557060",
         "longitude":"-122.270012",
         "start":"1700",
@@ -2403,7 +2889,7 @@
         "truck_name":"Lobsta Truck (1)"
     },
     {
-        "end":"0900",
+        "end":"2100",
         "latitude":"37.557060",
         "longitude":"-122.270012",
         "start":"1700",
@@ -2412,7 +2898,7 @@
         "truck_name":"Curveball Sliders"
     },
     {
-        "end":"0900",
+        "end":"2100",
         "latitude":"37.557060",
         "longitude":"-122.270012",
         "start":"1700",
@@ -2421,7 +2907,7 @@
         "truck_name":"Kokio Republic"
     },
     {
-        "end":"0900",
+        "end":"2100",
         "latitude":"37.557060",
         "longitude":"-122.270012",
         "start":"1700",
