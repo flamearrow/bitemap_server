@@ -17,3 +17,8 @@ for path in $basename/*; do
  	    fi
         fi
 done
+
+crawler_base=/lamp/foodtrucksmap/foodtrucksmap/stuff/bitemap_server/crawlers/       
+# crawling Off the grid
+echo '-----------------crawling off the grid------------------'
+python /$crawler_base/otg_crawler.py

@@ -13,7 +13,7 @@ Crawl off the grid website for their weekly schedules
 
 The script will go though OTGMarketsJson.json(which is parsed from source of http://offthegridsf.com/markets)
 For each of its id and use 'http://offthegridsf.com/wp-admin/admin-ajax.php?action=otg_market&delta=0&market='
-to pull all schedules of THIS week. Result is written to out.json as a list of following event objects:
+to pull all schedules of THIS week. Result is written to otg_out.json as a list of following event objects:
 {
     "end":"0900", "latitude":"37.415237",
     "longitude":"-122.077637",
@@ -126,13 +126,13 @@ def parse_all():
 
 def parse_all_to_file():
     """
-    crawl and write result to out.json
+    crawl and write result to otg_out.json
     """
     final_result = parse_all()
     print str(len(final_result)) + " results" 
-    with open('out.json', 'w') as json_out:
+    with open('otg_out.json', 'w') as json_out:
         json.dump(final_result, json_out, indent=4, separators=(',', ':'))
-    print "result written to out.json"
+    print "result written to otg_out.json"
 
 '''
 {
