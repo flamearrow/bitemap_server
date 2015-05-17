@@ -1,6 +1,6 @@
+from collections import OrderedDict
 import sys
 import pdb
-import simplejson
 import urllib2
 import re
 from datetime import datetime, date, time, timedelta
@@ -111,8 +111,14 @@ def truck_name_to_id(name):
         return -1;
 
 
-def get_sql_args(name, date, meal, start_time, end_time, address):
-    address_info = request_address_info(address)
+def get_sql_args(name, date, meal, start_time, end_time, address, lat = None, lng = None):
+    if not lat:
+        address_info = request_address_info(address)
+    else:
+        address_info = OrderedDict()
+        address_info['formatted_address'] = address
+        address_info['location']['lat'] = lat
+        address_info['location']['lng'] = lng
     truck_id = truck_name_to_id(name);
 
     if truck_id <= 0:
@@ -137,7 +143,7 @@ sql_fmt = """INSERT INTO `preview_schedules`(`name`, `truck_id`, `date`, `meal`,
  
 sql_event_fmt = """INSERT INTO `events`(`id`, `date`, `meal`, `start_time`, `end_time`, `formatted_address`, `address`, `lat`, `lng`, `trucks`) VALUES (%s, %s, %s, %s, %s, %s, %s, %s, %s, %s)"""
 
-def insert_into_database(name, date, meal, start_time, end_time, address, event_name = None): 
+def insert_into_database(name, date, meal, start_time, end_time, address, event_name = None, lat = None, lng = None):
     try:
         #sanity check for the date formate
         a = datetime.strptime(date, '%Y-%m-%d')
@@ -146,7 +152,7 @@ def insert_into_database(name, date, meal, start_time, end_time, address, event_
 	e_time = time.strptime(end_time, "%H:%M:%S")
 	if e_time < s_time:
 	    raise Exception("start_time is later than end_time")
-        sql_args = get_sql_args(name, date, meal, start_time, end_time, address.replace("+", " "))
+        sql_args = get_sql_args(name, date, meal, start_time, end_time, address.replace("+", " "), lat, lng)
         c.execute(sql_fmt, sql_args)
         if event_name == None:
             event_name = "NULL"
