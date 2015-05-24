@@ -182,13 +182,17 @@ def parse_all_to_db():
 
         truck_id = lib.truck_name_to_id(name)
 
-        lib.insert_into_database(name, date, meal, start_time, end_time, address, lat=lat, lng=lng)
+        #lib.insert_into_database(name, date, meal, start_time, end_time, address, lat=lat, lng=lng)
+	
+	if truck_id <= 0:
+		print("Unkown truck name : %s id :%s " % (name, truck_id))
+		continue
 
-        # sql_args = (name, truck_id, date, meal, start_time, end_time, address, address, lat, lng)
-        # if c.execute(lib.sql_fmt, sql_args):
-        #     print "successfully added: " + name
-        # else:
-        #     print "adding " + name + " fails!"
+        sql_args = (name, truck_id, date, meal, start_time, end_time, address, address, lat, lng)
+        if c.execute(lib.sql_fmt, sql_args):
+            print "successfully added: " + name
+        else:
+            print "adding " + name + " fails!"
 
 parse_all_to_db()
-# parse_all_to_file()
+#parse_all_to_file()
